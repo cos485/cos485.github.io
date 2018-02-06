@@ -32,15 +32,15 @@ Davit Buniatyan, Kyle Luther, Tommy Macrina, and Riley Simmons-Edler will lead t
 - F	9:00-9:50 am [Friend Center][friend-center]	009
 - F 9:00-9:50 am [Friend Center][friend-center] 108
 - M	3:30-4:20 pm [Friend Center][friend-center]	009
-- M	7:30-8:20 pm [Friend Center][friend-center] 003 
+- M	7:30-8:20 pm [Friend Center][friend-center] 003
 
 ### Office Hours
 Office hours will be announced shortly.
 
-<!---
+
 ### Online discussions
-You can ask and answer questions on the [Piazza site](https://piazza.com/princeton/spring2017/cos495/home).  Piazza activity counts as class participation and can enhance your grade.
---->
+You can ask and answer questions on the [Piazza site](https://piazza.com/princeton/spring2018/cos485/home).  Piazza activity counts as class participation and can enhance your grade.
+
 
 ### Homework assignments
 Homework assignments will be due on Mondays, and should be submitted at the [Blackboard site](https://blackboard.princeton.edu/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_6115916_1&handle=cp_announcements&mode=cpview).  The programming component should be submitted as a Jupyter notebook. Please submit (i) the Python notebook file, and (ii) a HTML export of the notebook clearly showing all answers and plots/visualizations.
@@ -51,4 +51,3 @@ Homework assignments will be due on Mondays, and should be submitted at the [Bla
 
 [friend-center]: https://goo.gl/maps/FbGwEnmNAnC2
 [computer-science]: https://goo.gl/maps/23Nw4ktSwZQ2
-
