@@ -10,17 +10,17 @@ author: "Sebastian Seung"
 
 - Programming exercises should be completed in Colaboratory.  
 
-  - On Blackboard, please submit (i) a link to your Colaboratory file using the comments, and (ii) the notebook itself.
+  - Please submit to Blackboard (i) a link to your Colaboratory file using the comments, and (ii) the notebook itself.
 
 - Theoretical exercises are encouraged to be completed in Colaboratory using LaTeX, as well. You may also submit a PDF scan of a handwritten response.
 
-  - If using Colaboratory, please submit (i) a link to your Colaboratory file, and (ii) the notebook itself.
+  - If using Colaboratory, please submit to Blackboard (i) a link to your Colaboratory file using the comments, and (ii) the notebook itself.
   
-- For Colaboratory notebooks submissions, please
+- For Colaboratory notebook submissions, please
  
   - make sure that all cell outputs are clearly visible before saving the notebook.
   
-  - set the permissions so that "Anyone with the link can view"
+  - set the share permissions so that "Anyone with the link can view"
   
   - note that when we evaluate notebooks using your link, we will grade the revision with the last timestamp that's before the assignment deadline.
   
