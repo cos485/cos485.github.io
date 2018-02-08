@@ -29,10 +29,10 @@ Prof. Sebastian Seung will lecture twice a week.
 ### Precepts
 Davit Buniatyan, Kyle Luther, Tommy Macrina, and Riley Simmons-Edler will lead the weekly precepts.
 
-- F	9:00-9:50 am [Friend Center][friend-center]	009
-- F 9:00-9:50 am [Friend Center][friend-center] 108
-- M	3:30-4:20 pm [Friend Center][friend-center]	009
-- M	7:30-8:20 pm [Friend Center][friend-center] 003 
+- F	9:00-9:50 am [Friend Center][friend-center]	009, Kyle Luther
+- F 9:00-9:50 am [Friend Center][friend-center] 108, Davit Buniatyan
+- M	3:30-4:20 pm [Friend Center][friend-center]	009, Tommy Macrina
+- M	7:30-8:20 pm [Friend Center][friend-center] 003, Riley Simmons-Edler
 
 ### Office Hours
 Office hours will be announced shortly.
