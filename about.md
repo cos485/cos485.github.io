@@ -37,8 +37,8 @@ Davit Buniatyan, Kyle Luther, Tommy Macrina, and Riley Simmons-Edler will lead t
 ### Office Hours
 There will be 2 sets of office hours every week. Each AI will hold office hours every other week. So Tommy Macrina and Kyle Luther will hold Tuesday and Wednesday office hours one week, then Riley Simons-Edler and Davit Buniatyan will hold Tuesday and Wednesday office hours the next week and so on.
 
-- T 4:30-5:30 pm PNI 176D, Tommy Macrina and Riley Simons-Edler
-- W 3:30-4:30 pm PNI 176D, Kyle Luther and Davit Buniatyan
+- T 4:30-5:30 pm [PNI][pni] 176D, Tommy Macrina and Riley Simons-Edler
+- W 3:30-4:30 pm [PNI][pni] 176D, Kyle Luther and Davit Buniatyan
 
 
 ### Online discussions
@@ -53,5 +53,6 @@ Homework assignments will be due on Mondays, and should be submitted at the [Bla
 - [COS Dept](http://www.cs.princeton.edu/courses/archive/spring18/cos485/)
 
 [friend-center]: https://goo.gl/maps/FbGwEnmNAnC2
+[pni]: https://www.google.com/maps/place/Princeton+Neuroscience+Institute/@40.3430949,-74.6547442,17z/data=!3m1!4b1!4m5!3m4!1s0x89c3e6c53815e167:0x52f009cb85093372!8m2!3d40.3430908!4d-74.6525555
 [computer-science]: https://goo.gl/maps/23Nw4ktSwZQ2
 
