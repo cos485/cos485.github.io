@@ -46,7 +46,7 @@ You can ask and answer questions on the [Piazza site](https://piazza.com/princet
 
 
 ### Homework assignments
-Homework assignments will be due on Mondays, and should be submitted at the [Blackboard site](https://blackboard.princeton.edu/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_6115916_1&handle=cp_announcements&mode=cpview).  The programming component should be submitted as a Jupyter notebook. Please submit (i) the Python notebook file, and (ii) a HTML export of the notebook clearly showing all answers and plots/visualizations.
+Homework assignments will be due on Thursdays, and should be submitted at the [Blackboard site](https://blackboard.princeton.edu/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_6115916_1&handle=cp_announcements&mode=cpview).  The programming component should be submitted as a Jupyter notebook. Please submit (i) the Python notebook file, and (ii) a HTML export of the notebook clearly showing all answers and plots/visualizations.
 
 ### Other links
 - [Princeton registrar](https://registrar.princeton.edu/course-offerings/course_details.xml?courseid=014447&term=1184)
