@@ -35,7 +35,10 @@ Davit Buniatyan, Kyle Luther, Tommy Macrina, and Riley Simmons-Edler will lead t
 - M	7:30-8:20 pm [Friend Center][friend-center] 003, Riley Simmons-Edler
 
 ### Office Hours
-Office hours will be announced shortly.
+There will be 2 sets of office hours every week. Each AI will hold office hours every other week. So Tommy Macrina and Kyle Luther will hold Tuesday and Wednesday office hours one week, then Riley Simons-Edler and Davit Buniatyan will hold Tuesday and Wednesday office hours the next week and so on.
+
+- T 4:30-5:30 pm PNI 176D, Tommy Macrina and Riley Simons-Edler
+- W 3:30-4:30 pm PNI 176D, Kyle Luther and Davit Buniatyan
 
 
 ### Online discussions
