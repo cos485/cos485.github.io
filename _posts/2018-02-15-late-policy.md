@@ -10,11 +10,12 @@ To clarify our late policy:
 
 - If you need an extension on an assignment and have a valid reason for it, please email one of the TA's in advance of the deadline. 
 
-- Valid reasons for extensions include: 
+- Valid reasons for extensions are "unavoidable" events that can't reasonably be planned for or scheduled around. Examples include: 
 
    - unplanned travel  
    - sickness/injury  
-   - registering for the class that week. 
+   - family emergencies  
+   - registering for the class that week.  
 
 - Extensions will typically be for 48 hours, i.e. until 11:59 PM EST on Saturday night. Only for extraordinary circumstances will longer extensions be granted. 
 
