@@ -14,7 +14,7 @@ To clarify our late policy:
 
    - unplanned travel  
    - sickness/injury  
-   - registering for the class that week.
+   - registering for the class that week. 
 
 - Extensions will typically be for 48 hours, i.e. until 11:59 PM EST on Saturday night. Only for extraordinary circumstances will longer extensions be granted. 
 
