@@ -105,13 +105,13 @@ permalink: /schedule/
 <tr>
 <td class="org-left">Lecture</td>
 <td class="org-left">Mar. 8</td>
-<td class="org-left">midterm review</td>
+<td class="org-left">biological vision</td>
 </tr>
 
 <tr>
 <td class="org-left">Lecture</td>
 <td class="org-left">Mar. 13</td>
-<td class="org-left">biological vision</td>
+<td class="org-left">midterm review</td>
 </tr>
 
 <tr>

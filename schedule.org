@@ -37,8 +37,8 @@ permalink: /schedule/
 | Lecture      | Mar. 1  | ConvNet backprop                    |
 | Lecture      | Mar. 6  | visual object recognition           |
 | Pset 4 due   | Mar. 8  | LeNet                               |
-| Lecture      | Mar. 8  | midterm review                      |
-| Lecture      | Mar. 13 | biological vision                   |
+| Lecture      | Mar. 8  | biological vision                   |
+| Lecture      | Mar. 13 | midterm review                      |
 | Midterm      | Mar. 15 | in-class exam                       |
 | Spring break |         |                                     |
 | Lecture      | Mar. 27 | deconvolution and other primitives  |
