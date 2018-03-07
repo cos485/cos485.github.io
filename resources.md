@@ -12,6 +12,7 @@ There are many online resources that can be helpful for learning the content of 
 - [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/) lecture notes by Andrej Karpathy
 
 Useful Links
+
 Part I
 - [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/)
 - [Convolutional Neural Networks backpropagation: from intuition to derivation](https://grzegorzgwardys.wordpress.com/2016/04/22/8/)
