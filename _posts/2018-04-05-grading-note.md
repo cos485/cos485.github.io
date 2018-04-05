@@ -9,7 +9,7 @@ author: "Thomas Macrina"
 # Grading Note
 We've calculated midpoint grades based on pset01, pset02, and the midterm according to the following formula:
 
-$$\frac{1}{4} \frac{1}{9} ( \text{PSET01} + }\text{PSET01} ) + \frac{3}{10}\text{MIDTERM}$$
+$$\frac{1}{4} \frac{1}{9} ( \text{PSET01} + \text{PSET01} ) + \frac{3}{10}\text{MIDTERM}$$
 
 Here is the distribution of those midpoint grades for all undergraduates in the class:
 ![midpoint grades]({{ site.url }}/assets/midpoint.png)
