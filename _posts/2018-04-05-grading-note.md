@@ -9,7 +9,7 @@ author: "Thomas Macrina"
 # Grading Note
 We've calculated midpoint grades based on pset01, pset02, and the midterm according to the following formula:
 
-$$\frac{1}{4}\frac{2}{9}\text{PSET01} + \frac{1}{4}\frac{2}{9}\text{PSET01} + \frac{3}{10}\text{MIDTERM}$$
+$$\frac{1}{4}\frac{1}{9}\text{PSET01} + \frac{1}{4}\frac{1}{9}\text{PSET01} + \frac{3}{10}\text{MIDTERM}$$
 
 Here is the distribution of those midpoint grades for all undergraduates in the class:
 ![midpoint grades]({{ site.url }}/_posts/180405 scaled midpoint grades undergrads.png)
@@ -17,10 +17,10 @@ Here is the distribution of those midpoint grades for all undergraduates in the 
 This distribution has the following statistics:
 ```
 60	1st quartile
-71	2nd quartile
-83	3rd quartile
-71	mean
-16	stdev
+69	2nd quartile
+82	3rd quartile
+69	mean
+17	stdev
 ```
 
 If we were to roughly assign grades, right now, these would be the following ranges:
