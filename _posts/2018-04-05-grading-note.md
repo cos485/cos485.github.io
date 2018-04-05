@@ -12,7 +12,7 @@ We've calculated midpoint grades based on pset01, pset02, and the midterm accord
 $$\frac{1}{4}\frac{1}{9}\text{PSET01} + \frac{1}{4}\frac{1}{9}\text{PSET01} + \frac{3}{10}\text{MIDTERM}$$
 
 Here is the distribution of those midpoint grades for all undergraduates in the class:
-![midpoint grades]({{ site.url }}/_posts/180405 scaled midpoint grades undergrads.png)
+![midpoint grades](https://cos485.github.io/_posts/midpoint.png)
 
 This distribution has the following statistics:
 ```
