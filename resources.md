@@ -10,7 +10,7 @@ There are many online resources that can be helpful for learning the content of 
 - [Deep Learning textbook](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
 - [Unsupervised Feature Learning and Deep Learning Tutorial](http://deeplearning.stanford.edu/tutorial/) from Stanford
 - [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/) lecture notes by Andrej Karpathy
-- [CS294: Deep Reinforcement Learning](rll.berkley.edu/deeprlcourse/) Course on reinforcement learning by Sergey Levine
+- [CS294: Deep Reinforcement Learning](http://rll.berkley.edu/deeprlcourse/) Course on reinforcement learning by Sergey Levine
 
 Useful Links
 
