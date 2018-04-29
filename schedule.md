@@ -217,7 +217,7 @@ permalink: /schedule/
 </tr>
 
 <tr>
-<td class="org-left">Pset 9 due</td>
+<td class="org-left">Lecture</td>
 <td class="org-left">May 3</td>
 <td class="org-left">reinforcement learning</td>
 </tr>
@@ -229,8 +229,14 @@ permalink: /schedule/
 </tr>
 
 <tr>
+<td class="org-left">Pset 9 due</td>
+<td class="org-left">May 10</td>
+<td class="org-left">N/A</td>
+</tr>
+
+<tr>
 <td class="org-left">Final</td>
-<td class="org-left">TBA</td>
+<td class="org-left">May 20</td>
 <td class="org-left">final exam</td>
 </tr>
 </tbody>
