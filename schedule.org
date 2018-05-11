@@ -51,11 +51,11 @@ permalink: /schedule/
 | Lecture      | Apr. 12 | n-grams and word embeddings         |
 | Lecture      | Apr. 17 | backprop through time               |
 | Pset 7 due   | Apr. 19 | word embeddings                     |
-| Lecture      | Apr. 19 | ConvNets for language               |
-| Lecture      | Apr. 24 | RNNs for language                   |
+| Lecture      | Apr. 19 | RNNs for language                   |
+| Lecture      | Apr. 24 | policy gradient                     |
 | Pset 8 due   | Apr. 26 | language modeling                   |
-| Lecture      | Apr. 26 | policy gradient                     |
-| Lecture      | May 1   | Markov decision processes           |
+| Lecture      | Apr. 26 | Markov decision processes           |
+| Lecture      | May 1   | value iteration                     |
 | Pset 9 due   | May 3   | reinforcement learning              |
 | Lecture      | May 3   | final review                        |
 | Final        | TBA     | final exam                          |

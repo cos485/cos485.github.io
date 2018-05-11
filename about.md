@@ -29,17 +29,10 @@ Prof. Sebastian Seung will lecture twice a week.
 ### Precepts
 Davit Buniatyan, Kyle Luther, Tommy Macrina, and Riley Simmons-Edler will lead the weekly precepts.
 
-<<<<<<< HEAD
-- F	9:00-9:50 am [Friend Center][friend-center]	009
-- F 9:00-9:50 am [Friend Center][friend-center] 108
-- M	3:30-4:20 pm [Friend Center][friend-center]	009
-- M	7:30-8:20 pm [Friend Center][friend-center] 003
-=======
 - F	9:00-9:50 am [Friend Center][friend-center]	009, Kyle Luther
 - F 9:00-9:50 am [Friend Center][friend-center] 108, Davit Buniatyan
 - M	3:30-4:20 pm [Friend Center][friend-center]	009, Tommy Macrina
 - M	7:30-8:20 pm [Friend Center][friend-center] 003, Riley Simmons-Edler
->>>>>>> 69d933ae64e971164d42b5fb1d988cd5f02141b5
 
 ### Office Hours
 There will be 2 sets of office hours every week. Each AI will hold office hours every other week. So Tommy Macrina and Kyle Luther will hold Tuesday and Wednesday office hours one week, then Riley Simons-Edler and Davit Buniatyan will hold Tuesday and Wednesday office hours the next week and so on.
@@ -47,11 +40,6 @@ There will be 2 sets of office hours every week. Each AI will hold office hours 
 - T 4:30-5:30 pm [PNI][pni] 176D, Tommy Macrina and Riley Simons-Edler
 - W 3:30-4:30 pm [PNI][pni] 176D, Kyle Luther and Davit Buniatyan
 
-
-<<<<<<< HEAD
-
-=======
->>>>>>> 69d933ae64e971164d42b5fb1d988cd5f02141b5
 ### Online discussions
 You can ask and answer questions on the [Piazza site](https://piazza.com/princeton/spring2018/cos485/home).  Piazza activity counts as class participation and can enhance your grade.
 

@@ -189,13 +189,13 @@ permalink: /schedule/
 <tr>
 <td class="org-left">Lecture</td>
 <td class="org-left">Apr. 19</td>
-<td class="org-left">ConvNets for language</td>
+<td class="org-left">RNNs for language</td>
 </tr>
 
 <tr>
 <td class="org-left">Lecture</td>
 <td class="org-left">Apr. 24</td>
-<td class="org-left">RNNs for language</td>
+<td class="org-left">policy gradient</td>
 </tr>
 
 <tr>
@@ -207,17 +207,17 @@ permalink: /schedule/
 <tr>
 <td class="org-left">Lecture</td>
 <td class="org-left">Apr. 26</td>
-<td class="org-left">policy gradient</td>
-</tr>
-
-<tr>
-<td class="org-left">Lecture</td>
-<td class="org-left">May 1</td>
 <td class="org-left">Markov decision processes</td>
 </tr>
 
 <tr>
 <td class="org-left">Lecture</td>
+<td class="org-left">May 1</td>
+<td class="org-left">value iteration</td>
+</tr>
+
+<tr>
+<td class="org-left">Pset 9 due</td>
 <td class="org-left">May 3</td>
 <td class="org-left">reinforcement learning</td>
 </tr>
@@ -229,14 +229,8 @@ permalink: /schedule/
 </tr>
 
 <tr>
-<td class="org-left">Pset 9 due</td>
-<td class="org-left">May 10</td>
-<td class="org-left">N/A</td>
-</tr>
-
-<tr>
 <td class="org-left">Final</td>
-<td class="org-left">May 20</td>
+<td class="org-left">TBA</td>
 <td class="org-left">final exam</td>
 </tr>
 </tbody>
