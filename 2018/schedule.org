@@ -1,0 +1,64 @@
+#+OPTIONS: toc:nil H:2 num:0 \n:t
+
+#+BEGIN_COMMENT
+org export to HTML
+remove header before yaml
+remove postamble
+save as md file
+#+END_COMMENT
+
+#+BEGIN_EXPORT html
+---
+layout: page_2018
+title: Schedule
+year: 2018
+permalink: /2018/schedule/
+---
+<script src="https://code.jquery.com/jquery-3.1.1.js"
+        integrity="sha256-16cdPddA6VdVInumRGo6IbivbERE8p7CQR3HzTBuELA="
+        crossorigin="anonymous"></script>
+
+<script>
+ $(document).ready(function(){
+     $('td:contains("Pset")').closest('tr').css('background-color','LemonChiffon');
+     $('td:contains("exam")').closest('tr').css('background-color','LightSalmon');
+ });
+</script>
+#+END_EXPORT
+| Lecture      | Feb. 6  | overview and simple perceptron      |
+| Lecture      | Feb. 8  | delta rule                          |
+| Lecture      | Feb. 13 | multilayer perceptrons              |
+| Pset 1 due   | Feb. 15 | simple perceptrons                  |
+| Lecture      | Feb. 15 | backpropagation                     |
+| Lecture      | Feb. 20 | stochastic gradient descent         |
+| Pset 2 due   | Feb. 22 | multilayer perceptrons              |
+| Lecture      | Feb. 22 | generalization and regularization   |
+| Lecture      | Feb. 27 | convolution and pooling             |
+| Pset 3 due   | Mar. 1  | black art of backprop               |
+| Lecture      | Mar. 1  | ConvNet backprop                    |
+| Lecture      | Mar. 6  | visual object recognition           |
+| Pset 4 due   | Mar. 8  | LeNet                               |
+| Lecture      | Mar. 8  | biological vision                   |
+| Lecture      | Mar. 13 | midterm review                      |
+| Midterm      | Mar. 15 | in-class exam                       |
+| Spring break |         |                                     |
+| Lecture      | Mar. 27 | deconvolution and other primitives  |
+| Lecture      | Mar. 29 | image segmentation                  |
+| Lecture      | Apr. 3  | competitive learning and clustering |
+| Pset 5 due   | Apr. 5  | dense prediction on images          |
+| Lecture      | Apr. 5  | principal component analysis        |
+| Lecture      | Apr. 10 | autoencoders                        |
+| Pset 6 due   | Apr. 12 | unsupervised learning               |
+| Lecture      | Apr. 12 | n-grams and word embeddings         |
+| Lecture      | Apr. 17 | backprop through time               |
+| Pset 7 due   | Apr. 19 | word embeddings                     |
+| Lecture      | Apr. 19 | RNNs for language                   |
+| Lecture      | Apr. 24 | policy gradient                     |
+| Pset 8 due   | Apr. 26 | language modeling                   |
+| Lecture      | Apr. 26 | Markov decision processes           |
+| Lecture      | May 1   | value iteration                     |
+| Pset 9 due   | May 3   | reinforcement learning              |
+| Lecture      | May 3   | final review                        |
+| Final        | TBA     | final exam                          |
+
+

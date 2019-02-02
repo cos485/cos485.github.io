@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_2018
 title:  "Assignment Late Policy"
 date:   2018-02-15 22:00:00 -0500
 categories: general

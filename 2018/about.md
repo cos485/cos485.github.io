@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: page_2018
 title: About
-permalink: /about/
+year: 2018
+permalink: /2018/about/
 ---
 
 Organization of synaptic connectivity as the basis of neural

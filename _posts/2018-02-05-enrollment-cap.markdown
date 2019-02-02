@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_2018
 title:  "Enrollment cap"
 date:   2018-02-04
 categories: general

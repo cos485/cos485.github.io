@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_2018
 title:  "Using Colaboratory"
 date:   2018-02-08 14:58:00 -0500
 categories: general

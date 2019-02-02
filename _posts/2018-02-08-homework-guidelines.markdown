@@ -1,12 +1,12 @@
 ---
-layout: post
+layout: post_2018
 title:  "General guidelines for homework assignments"
 date:   2018-02-08 14:30:00 -0500
 categories: general
 author: "Sebastian Seung"
 ---
 
-- All homework assignments are due on Thursday (see [schedule](http://cos485.github.io/schedule/)), and should be submitted through Blackboard.  
+- All homework assignments are due on Thursday (see [schedule](http://cos485.github.io/2018/schedule/)), and should be submitted through Blackboard.  
 
 - Programming exercises should be completed in Colaboratory.  
 

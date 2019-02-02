@@ -9,9 +9,10 @@ save as md file
 
 #+BEGIN_EXPORT html
 ---
-layout: page
+layout: page_2019
 title: Schedule
-permalink: /schedule/
+year: 2019
+permalink: /2019/schedule/
 ---
 <script src="https://code.jquery.com/jquery-3.1.1.js"
         integrity="sha256-16cdPddA6VdVInumRGo6IbivbERE8p7CQR3HzTBuELA="
@@ -59,3 +60,5 @@ permalink: /schedule/
 | Pset 9 due   | May 3   | reinforcement learning              |
 | Lecture      | May 3   | final review                        |
 | Final        | TBA     | final exam                          |
+
+

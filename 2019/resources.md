@@ -1,10 +1,11 @@
 ---
-layout: page
+layout: page_2019
 title: Resources
-permalink: /resources/
+year: 2019
+permalink: /2019/resources/
 ---
 
-There are many online resources that can be helpful for learning the content of this class. Here are a few.  If you find others, please post on [Piazza](https://piazza.com/princeton/spring2017/cos495/home) and we can add them here.
+There are many online resources that can be helpful for learning the content of this class. Here are a few.  If you find others, please post on [Piazza](https://piazza.com/princeton/spring2019/cos495/home) and we can add them here.
 
 - Michael Nielsen's [online book](http://neuralnetworksanddeeplearning.com)
 - [Deep Learning textbook](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville

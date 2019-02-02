@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: page_2018
 title: Schedule
-permalink: /schedule/
+year: 2018
+permalink: /2018/schedule/
 ---
 <script src="https://code.jquery.com/jquery-3.1.1.js"
         integrity="sha256-16cdPddA6VdVInumRGo6IbivbERE8p7CQR3HzTBuELA="

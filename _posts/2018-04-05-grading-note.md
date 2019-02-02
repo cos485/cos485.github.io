@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_2018
 title:  "Grading Note"
 date:   2018-04-05 15:35:00 -0500
 categories: general
