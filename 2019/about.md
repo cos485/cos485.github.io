@@ -27,13 +27,12 @@ Prof. Sebastian Seung will lecture twice a week.
 
 - TTh 3-4:20pm [Friend Center][friend-center] 101
 
-### Precepts
+### Precepts & Office Hours
+ 
+- M	3:30-4:20 pm [Friend Center][friend-center]	009 
+- M	7:30-8:20 pm [Friend Center][friend-center] 110
+- F 9:00-9:50 am [Friend Center][friend-center] 108 
 
-TBA 
-
-### Office Hours
-
-TBA 
 
 ### Online discussions
 You can ask and answer questions on the [Piazza site](https://piazza.com/princeton/spring2019/cos485/home).  Piazza activity counts as class participation and can enhance your grade.
@@ -49,3 +48,4 @@ Homework assignments will be due on Thursdays, and should be submitted at the [B
 [friend-center]: https://goo.gl/maps/FbGwEnmNAnC2
 [pni]: https://www.google.com/maps/place/Princeton+Neuroscience+Institute/@40.3430949,-74.6547442,17z/data=!3m1!4b1!4m5!3m4!1s0x89c3e6c53815e167:0x52f009cb85093372!8m2!3d40.3430908!4d-74.6525555
 [computer-science]: https://goo.gl/maps/23Nw4ktSwZQ2
+

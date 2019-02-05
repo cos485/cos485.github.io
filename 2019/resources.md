@@ -5,6 +5,7 @@ year: 2019
 permalink: /2019/resources/
 ---
 
+
 There are many online resources that can be helpful for learning the content of this class. Here are a few.  If you find others, please post on [Piazza](https://piazza.com/princeton/spring2019/cos495/home) and we can add them here.
 
 - Michael Nielsen's [online book](http://neuralnetworksanddeeplearning.com)
@@ -12,6 +13,8 @@ There are many online resources that can be helpful for learning the content of 
 - [Unsupervised Feature Learning and Deep Learning Tutorial](http://deeplearning.stanford.edu/tutorial/) from Stanford
 - [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/) lecture notes by Andrej Karpathy
 - [CS294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/) Course on reinforcement learning by Sergey Levine
+
+For a good tutorial on Python checkout [PicScie](https://researchcomputing.princeton.edu/user/login?destination=node/4991).
 
 Useful Links
 
