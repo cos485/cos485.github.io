@@ -242,4 +242,4 @@ permalink: /2019/schedule/
 </tr>
 </tbody>
 </table>
-</div>
+
