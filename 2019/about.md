@@ -27,11 +27,11 @@ Prof. Sebastian Seung will lecture twice a week.
 
 - TTh 3-4:20pm [Friend Center][friend-center] 101
 
-### Precepts & Office Hours
+### Office Hours
  
-- M	3:30-4:20 pm [Friend Center][friend-center]	009 
-- M	7:30-8:20 pm [Friend Center][friend-center] 110
-- F 9:00-9:50 am [Friend Center][friend-center] 108 
+- M	3:30-4:20 pm [Friend Center][friend-center]	009, Zoe Ashwood
+- M	7:30-8:20 pm [Friend Center][friend-center] 110, Sven Dorkenwald
+- F 9:00-9:50 am [Friend Center][friend-center] 108, Kyle Luther
 
 
 ### Online discussions
@@ -40,6 +40,7 @@ You can ask and answer questions on the [Piazza site](https://piazza.com/princet
 
 ### Homework assignments
 Homework assignments will be due on Thursdays, and should be submitted at the [Blackboard site](https://blackboard.princeton.edu/).  The programming component should be submitted as a Jupyter notebook. Please submit (i) the Python notebook file, and (ii) a HTML export of the notebook clearly showing all answers and plots/visualizations.
+
 
 ### Other links
 - [Princeton registrar](https://registrar.princeton.edu/course-offerings/course_details.xml?courseid=014447&term=1194)
