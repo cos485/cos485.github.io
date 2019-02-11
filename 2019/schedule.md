@@ -46,13 +46,13 @@ permalink: /2019/schedule/
 <tr>
 <td class="org-left">Lecture</td>
 <td class="org-left">Feb. 12</td>
-<td class="org-left">multilayer perceptrons</td>
+<td class="org-left">stochastic gradient descent</td>
 </tr>
 
 <tr>
 <td class="org-left">Lecture</td>
 <td class="org-left">Feb. 14</td>
-<td class="org-left">backpropagation</td>
+<td class="org-left">multilayer perceptrons</td>
 </tr>
 
 <tr>
@@ -64,7 +64,7 @@ permalink: /2019/schedule/
 <tr>
 <td class="org-left">Lecture</td>
 <td class="org-left">Feb. 19</td>
-<td class="org-left">stochastic gradient descent</td>
+<td class="org-left">backpropagation</td>
 </tr>
 
 <tr>
@@ -242,4 +242,3 @@ permalink: /2019/schedule/
 </tr>
 </tbody>
 </table>
-
