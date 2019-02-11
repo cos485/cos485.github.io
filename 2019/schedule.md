@@ -14,6 +14,8 @@ permalink: /2019/schedule/
      $('td:contains("exam")').closest('tr').css('background-color','LightSalmon');
  });
 </script>
+
+Lecture slides can be found [here](https://drive.google.com/open?id=1aVYDxtstZ6o1dNHph0rFecqq5xuZip8C).
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 
