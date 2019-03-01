@@ -13,6 +13,7 @@ There are many online resources that can be helpful for learning the content of 
 - [Unsupervised Feature Learning and Deep Learning Tutorial](http://deeplearning.stanford.edu/tutorial/) from Stanford
 - [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/) lecture notes by Andrej Karpathy
 - [CS294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/) Course on reinforcement learning by Sergey Levine
+- [Neural Networks](https://drive.google.com/file/d/0BwWWE4p0wihld2s0V2gxUEhLXzg/view?usp=sharing) Appendix E of Principles of Neural Science, 5th ed. Eds. E. R. Kandel et al. by S. Seung and R. Yuste
 
 Python tutorial: [PicScie](https://researchcomputing.princeton.edu/user/login?destination=node/4991).
 
