@@ -2,7 +2,6 @@
 layout: post_2019
 title:  "Using Colaboratory"
 date:   2019-02-12 14:00:00 EST
-author: "Sven Dorkenwald"
 ---
 
 # Using Colaboratory  

@@ -2,7 +2,6 @@
 layout: post_2019
 title:  "General guidelines for homework assignments"
 date:   2019-02-12 14:00:00 EST
-author: "Sven Dorkenwald"
 ---
 
 - All homework assignments are due on Tuesday (see [schedule](http://cos485.github.io/2019/schedule/)), and should be submitted through Gradescope.  
