@@ -120,13 +120,13 @@ Lecture slides can be found [here](https://drive.google.com/open?id=1aVYDxtstZ6o
 <tr>
 <td class="org-left">Lecture</td>
 <td class="org-left">Mar. 12</td>
-<td class="org-left">deconvolution and other primitives</td>
+<td class="org-left">no class (instructor was sick)</td>
 </tr>
 
 <tr>
 <td class="org-left">Lecture</td>
 <td class="org-left">Mar. 14</td>
-<td class="org-left">midterm review</td>
+<td class="org-left">image-to-image computations</td>
 </tr>
 
 <tr>
@@ -144,19 +144,19 @@ Lecture slides can be found [here](https://drive.google.com/open?id=1aVYDxtstZ6o
 <tr>
 <td class="org-left">Lecture</td>
 <td class="org-left">Mar. 28</td>
-<td class="org-left">image segmentation</td>
-</tr>
-
-<tr>
-<td class="org-left">Lecture</td>
-<td class="org-left">Apr. 2</td>
 <td class="org-left">competitive learning and clustering</td>
 </tr>
 
 <tr>
 <td class="org-left">Lecture</td>
-<td class="org-left">Apr. 4</td>
+<td class="org-left">Apr. 2</td>
 <td class="org-left">principal component analysis</td>
+</tr>
+
+<tr>
+<td class="org-left">Lecture</td>
+<td class="org-left">Apr. 4</td>
+<td class="org-left">autoencoders and siamese nets</td>
 </tr>
 
 <tr>
@@ -168,13 +168,13 @@ Lecture slides can be found [here](https://drive.google.com/open?id=1aVYDxtstZ6o
 <tr>
 <td class="org-left">Lecture</td>
 <td class="org-left">Apr. 9</td>
-<td class="org-left">autoencoders</td>
+<td class="org-left">n-grams and word embeddings</td>
 </tr>
 
 <tr>
 <td class="org-left">Lecture</td>
 <td class="org-left">Apr. 11</td>
-<td class="org-left">n-grams and word embeddings</td>
+<td class="org-left">RNNs and LSTMs for language</td>
 </tr>
 
 <tr>
@@ -192,7 +192,7 @@ Lecture slides can be found [here](https://drive.google.com/open?id=1aVYDxtstZ6o
 <tr>
 <td class="org-left">Lecture</td>
 <td class="org-left">Apr. 18</td>
-<td class="org-left">RNNs for language</td>
+<td class="org-left">"Teaching a car to drive" (Larry Jackel)</td>
 </tr>
 
 <tr>
@@ -244,3 +244,4 @@ Lecture slides can be found [here](https://drive.google.com/open?id=1aVYDxtstZ6o
 </tr>
 </tbody>
 </table>
+</div>
