@@ -1,0 +1,82 @@
+#+OPTIONS: toc:nil H:2 num:0 \n:t
+
+#+BEGIN_COMMENT
+org export to HTML
+remove header before yaml
+remove postamble
+save as md file
+#+END_COMMENT
+
+#+BEGIN_EXPORT html
+---
+layout: page_2020
+title: Schedule
+year: 2020
+permalink: /2020/schedule/
+---
+<script src="https://code.jquery.com/jquery-3.1.1.js"
+        integrity="sha256-16cdPddA6VdVInumRGo6IbivbERE8p7CQR3HzTBuELA="
+        crossorigin="anonymous"></script>
+
+<script>
+ $(document).ready(function(){
+     $('td:contains("Pset")').closest('tr').css('background-color','LemonChiffon');
+     $('td:contains("exam")').closest('tr').css('background-color','LightSalmon');
+ });
+</script>
+
+Lecture slides can be found [here](https://drive.google.com/open?id=1aVYDxtstZ6o1dNHph0rFecqq5xuZip8C).
+
+#+END_EXPORT
+| Lecture          | Feb. 4  | overview and simple perceptron                |
+| Lecture          | Feb. 6  | delta rule                                    |
+| Pset 0 optional  | Feb. 11 | math review                                   |
+| Lecture          | Feb. 11 | stochastic gradient descent                   |
+| Lecture          | Feb. 13 | multilayer perceptrons                        |
+| Pset 1 due       | Feb. 18 | simple perceptrons                            |
+| Lecture          | Feb. 18 | backpropagation                               |
+| Lecture          | Feb. 20 | training and generalization                   |
+| Pset 2 due       | Feb. 25 | multilayer perceptrons                        |
+| Lecture          | Feb. 25 | convolution and pooling                       |
+| Lecture          | Feb. 27 | convolutional nets, visual object recognition |
+| Pset 3 due       | Mar. 3  | black art of backprop                         |
+| Lecture          | Mar. 3  | "deconvolution," image-to-image computations  |
+| Lecture          | Mar. 5  | biological vision                             |
+| Pset 4 due       | Mar. 10 | LeNet, UNet                                   |
+| Lecture          | Mar. 10 | GANs                                          |
+| Lecture          | Mar. 12 | deep metric learning a.k.a. siamese nets      |
+| Spring break     |         |                                               |
+| Midterm          | Mar. 24 | midterm exam                                  |
+| Lecture          | Mar. 26 | clustering and PCA as neural nets             |
+| Pset 5 due       | Mar. 31 | image generation                              |
+| Lecture          | Mar. 31 | autoencoders                                  |
+| Lecture          | Apr. 2  | n-grams and word embeddings                   |
+| Pset 6 due       | Apr. 7  | autoencoders                                  |
+| Lecture          | Apr. 7  | RNNs, multistability                          |
+| Lecture          | Apr. 9  | RNNs, LSTMs, sequences                        |
+| Pset 7 due       | Apr. 14 | word embeddings                               |
+| Lecture          | Apr. 14 | seq2seq tasks                                 |
+| Lecture          | Apr. 16 | transformer models                            |
+| Pset 8 due       | Apr. 21 | sequence generation                           |
+| Lecture          | Apr. 21 | policy gradient                               |
+| Lecture          | Apr. 23 | Markov decision processes                     |
+| Pset 9 due       | Apr. 28 | sequence to sequence                          |
+| Lecture          | Apr. 28 | value iteration                               |
+| Lecture          | Apr. 30 | final review                                  |
+| Pset 10 optional | May 7   | deep reinforcement learning                   |
+| Final            | TBA     | final exam                                    |
+
+#+BEGIN_COMMENT
+| Pset 0 optional  | Feb. 11 | math review                 |
+| Pset 1 due       | Feb. 18 | simple perceptrons          |
+| Pset 2 due       | Feb. 25 | multilayer perceptrons      |
+| Pset 3 due       | Mar. 3  | training and regularization |
+| Pset 4 due       | Mar. 10 | LeNet, UNet                 |
+| Pset 5 due       | Mar. 31 | image generation            |
+| Pset 6 due       | Apr. 7  | autoencoders                |
+| Pset 7 due       | Apr. 14 | word embeddings             |
+| Pset 8 due       | Apr. 21 | sequence generation         |
+| Pset 9 due       | Apr. 28 | sequence to sequence        |
+| Pset 10 optional | May 7   | reinforcement learning      |
+| Final            | TBA     | final exam                  |
+#+END_COMMENT
