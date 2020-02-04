@@ -39,7 +39,11 @@ You can ask and answer questions on the [Piazza site](https://piazza.com/princet
 
 
 ### Homework assignments
-Homework assignments will be due on Thursdays, and should be submitted on gradescope.
+Homework assignments will be due on Tuesdays, and should be submitted on gradescope.
+
+### Homework late policy
+
+There is a accumulated percentage drop on the overall points of 20% per day (eg. 2 days late => -40%). If you have reasons (eg. conference, illness, ...) for why you cannot make a deadline, write us (all instructors) an E-mail *before* the deadline including a suggested new deadline. We will grant requests on an individual basis.
 
 ### Other links
 - [Princeton registrar](https://registrar.princeton.edu/course-offerings?term=1204&subject=COS)
