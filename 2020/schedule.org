@@ -42,13 +42,13 @@ Lecture slides can be found [here](https://drive.google.com/open?id=1aVYDxtstZ6o
 | Pset 3 due       | Mar. 3  | black art of backprop                         |
 | Lecture          | Mar. 3  | "deconvolution," image-to-image computations  |
 | Lecture          | Mar. 5  | biological vision                             |
-| Pset 4 due       | Mar. 10 | LeNet, UNet                                   |
-| Lecture          | Mar. 10 | GANs                                          |
-| Lecture          | Mar. 12 | deep metric learning a.k.a. siamese nets      |
+| Pset 4 due       | Mar. 10 | LeNet                                         |
+| Lecture          | Mar. 10 | deep metric learning a.k.a. siamese nets      |
+| Lecture          | Mar. 12 | clustering as neural net                      |
 | Spring break     |         |                                               |
 | Midterm          | Mar. 24 | midterm exam                                  |
-| Lecture          | Mar. 26 | clustering and PCA as neural nets             |
-| Pset 5 due       | Mar. 31 | image generation                              |
+| Lecture          | Mar. 26 | PCA as neural net                             |
+| Pset 5 due       | Mar. 31 | UNet                                          |
 | Lecture          | Mar. 31 | autoencoders                                  |
 | Lecture          | Apr. 2  | n-grams and word embeddings                   |
 | Pset 6 due       | Apr. 7  | autoencoders                                  |
