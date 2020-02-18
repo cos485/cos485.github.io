@@ -114,19 +114,19 @@ Lecture slides can be found [here](https://drive.google.com/open?id=1aVYDxtstZ6o
 <tr>
 <td class="org-left">Pset 4 due</td>
 <td class="org-left">Mar. 10</td>
-<td class="org-left">LeNet, UNet</td>
+<td class="org-left">LeNet</td>
 </tr>
 
 <tr>
 <td class="org-left">Lecture</td>
 <td class="org-left">Mar. 10</td>
-<td class="org-left">GANs</td>
+<td class="org-left">deep metric learning a.k.a. siamese nets</td>
 </tr>
 
 <tr>
 <td class="org-left">Lecture</td>
 <td class="org-left">Mar. 12</td>
-<td class="org-left">deep metric learning a.k.a. siamese nets</td>
+<td class="org-left">clustering as neural net</td>
 </tr>
 
 <tr>
@@ -144,13 +144,13 @@ Lecture slides can be found [here](https://drive.google.com/open?id=1aVYDxtstZ6o
 <tr>
 <td class="org-left">Lecture</td>
 <td class="org-left">Mar. 26</td>
-<td class="org-left">clustering and PCA as neural nets</td>
+<td class="org-left">PCA as neural net</td>
 </tr>
 
 <tr>
 <td class="org-left">Pset 5 due</td>
 <td class="org-left">Mar. 31</td>
-<td class="org-left">image generation</td>
+<td class="org-left">UNet</td>
 </tr>
 
 <tr>
