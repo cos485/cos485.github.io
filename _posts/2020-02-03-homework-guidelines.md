@@ -8,7 +8,7 @@ date:   2020-02-03
 
 - Programming exercises should be completed in Colaboratory.  
 
-  - Please submit to Gradescope a PDF of your notebook including a link to your Colaboratory file using the comments.
+  - Please submit to Gradescope a PDF of your notebook including a link to your Colaboratory file.
 
 - Theoretical exercises are encouraged to be completed in Colaboratory using LaTeX, as well. You may also submit a PDF scan of a handwritten response.
 
