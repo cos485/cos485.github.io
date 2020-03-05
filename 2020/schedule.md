@@ -48,13 +48,13 @@ Lecture slides can be found [here](https://drive.google.com/open?id=1aVYDxtstZ6o
 <tr>
 <td class="org-left">Lecture</td>
 <td class="org-left">Feb. 11</td>
-<td class="org-left">stochastic gradient descent</td>
+<td class="org-left">gradient optimization</td>
 </tr>
 
 <tr>
 <td class="org-left">Lecture</td>
 <td class="org-left">Feb. 13</td>
-<td class="org-left">multilayer perceptrons</td>
+<td class="org-left">gradient learning</td>
 </tr>
 
 <tr>
@@ -66,13 +66,13 @@ Lecture slides can be found [here](https://drive.google.com/open?id=1aVYDxtstZ6o
 <tr>
 <td class="org-left">Lecture</td>
 <td class="org-left">Feb. 18</td>
-<td class="org-left">backpropagation</td>
+<td class="org-left">multilayer perceptrons</td>
 </tr>
 
 <tr>
 <td class="org-left">Lecture</td>
 <td class="org-left">Feb. 20</td>
-<td class="org-left">training and generalization</td>
+<td class="org-left">backpropagation</td>
 </tr>
 
 <tr>
@@ -84,13 +84,13 @@ Lecture slides can be found [here](https://drive.google.com/open?id=1aVYDxtstZ6o
 <tr>
 <td class="org-left">Lecture</td>
 <td class="org-left">Feb. 25</td>
-<td class="org-left">convolution and pooling</td>
+<td class="org-left">training</td>
 </tr>
 
 <tr>
 <td class="org-left">Lecture</td>
 <td class="org-left">Feb. 27</td>
-<td class="org-left">convolutional nets, visual object recognition</td>
+<td class="org-left">generalization</td>
 </tr>
 
 <tr>
@@ -102,31 +102,31 @@ Lecture slides can be found [here](https://drive.google.com/open?id=1aVYDxtstZ6o
 <tr>
 <td class="org-left">Lecture</td>
 <td class="org-left">Mar. 3</td>
-<td class="org-left">"deconvolution," image-to-image computations</td>
+<td class="org-left">convolution and pooling</td>
 </tr>
 
 <tr>
 <td class="org-left">Lecture</td>
 <td class="org-left">Mar. 5</td>
-<td class="org-left">biological vision</td>
-</tr>
-
-<tr>
-<td class="org-left">Pset 4 due</td>
-<td class="org-left">Mar. 10</td>
-<td class="org-left">LeNet</td>
+<td class="org-left">object recognition, image-to-image</td>
 </tr>
 
 <tr>
 <td class="org-left">Lecture</td>
 <td class="org-left">Mar. 10</td>
-<td class="org-left">deep metric learning a.k.a. siamese nets</td>
+<td class="org-left">biological vision</td>
 </tr>
 
 <tr>
 <td class="org-left">Lecture</td>
 <td class="org-left">Mar. 12</td>
-<td class="org-left">clustering as neural net</td>
+<td class="org-left">deep metric learning</td>
+</tr>
+
+<tr>
+<td class="org-left">Pset 4 due</td>
+<td class="org-left">Mar. 12</td>
+<td class="org-left">LeNet</td>
 </tr>
 
 <tr>
@@ -144,7 +144,7 @@ Lecture slides can be found [here](https://drive.google.com/open?id=1aVYDxtstZ6o
 <tr>
 <td class="org-left">Lecture</td>
 <td class="org-left">Mar. 26</td>
-<td class="org-left">PCA as neural net</td>
+<td class="org-left">clustering and PCA as neural nets</td>
 </tr>
 
 <tr>
@@ -250,4 +250,3 @@ Lecture slides can be found [here](https://drive.google.com/open?id=1aVYDxtstZ6o
 </tr>
 </tbody>
 </table>
-
