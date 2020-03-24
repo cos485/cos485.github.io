@@ -20,51 +20,50 @@ permalink: /2020/schedule/
 
 <script>
  $(document).ready(function(){
+     $('td:contains("Homework")').closest('tr').css('background-color','LemonChiffon');
+     $('td:contains("quiz")').closest('tr').css('background-color','LightSalmon');
      $('td:contains("Pset")').closest('tr').css('background-color','LemonChiffon');
-     $('td:contains("exam")').closest('tr').css('background-color','LightSalmon');
  });
 </script>
 
 Lecture slides can be found [here](https://drive.google.com/open?id=1aVYDxtstZ6o1dNHph0rFecqq5xuZip8C).
 
 #+END_EXPORT
-| Lecture          | Feb. 4  | overview and simple perceptron           |
-| Lecture          | Feb. 6  | delta rule                               |
-| Pset 0 optional  | Feb. 11 | math review                              |
-| Lecture          | Feb. 11 | gradient optimization                    |
-| Lecture          | Feb. 13 | gradient learning                        |
-| Pset 1 due       | Feb. 18 | simple perceptrons                       |
-| Lecture          | Feb. 18 | multilayer perceptrons                   |
-| Lecture          | Feb. 20 | backpropagation                          |
-| Pset 2 due       | Feb. 25 | multilayer perceptrons                   |
-| Lecture          | Feb. 25 | training                                 |
-| Lecture          | Feb. 27 | generalization                           |
-| Pset 3 due       | Mar. 3  | black art of backprop                    |
-| Lecture          | Mar. 3  | convolution and pooling                  |
-| Lecture          | Mar. 5  | object recognition, image-to-image       |
-| Lecture          | Mar. 10 | biological vision                        |
-| Lecture          | Mar. 12 | deep metric learning                     |
-| Pset 4 due       | Mar. 12 | LeNet                                    |
-| Spring break     |         |                                          |
-| Midterm          | Mar. 24 | midterm exam                             |
-| Lecture          | Mar. 26 | clustering and PCA as neural nets        |
-| Pset 5 due       | Mar. 31 | UNet                                     |
-| Lecture          | Mar. 31 | autoencoders                             |
-| Lecture          | Apr. 2  | n-grams and word embeddings              |
-| Pset 6 due       | Apr. 7  | autoencoders                             |
-| Lecture          | Apr. 7  | RNNs, multistability                     |
-| Lecture          | Apr. 9  | RNNs, LSTMs, sequences                   |
-| Pset 7 due       | Apr. 14 | word embeddings                          |
-| Lecture          | Apr. 14 | seq2seq tasks                            |
-| Lecture          | Apr. 16 | transformer models                       |
-| Pset 8 due       | Apr. 21 | sequence generation                      |
-| Lecture          | Apr. 21 | policy gradient                          |
-| Lecture          | Apr. 23 | Markov decision processes                |
-| Pset 9 due       | Apr. 28 | sequence to sequence                     |
-| Lecture          | Apr. 28 | value iteration                          |
-| Lecture          | Apr. 30 | final review                             |
-| Pset 10 optional | May 7   | deep reinforcement learning              |
-| Final            | TBA     | final exam                               |
+| Lecture         | Feb. 4  | overview and simple perceptron     |
+| Lecture         | Feb. 6  | delta rule                         |
+| Pset 0 optional | Feb. 11 | math review                        |
+| Lecture         | Feb. 11 | gradient optimization              |
+| Lecture         | Feb. 13 | gradient learning                  |
+| Pset 1 due      | Feb. 18 | simple perceptrons                 |
+| Lecture         | Feb. 18 | multilayer perceptrons             |
+| Lecture         | Feb. 20 | backpropagation                    |
+| Pset 2 due      | Feb. 25 | multilayer perceptrons             |
+| Lecture         | Feb. 25 | training                           |
+| Lecture         | Feb. 27 | generalization                     |
+| Pset 3 due      | Mar. 3  | black art of backprop              |
+| Lecture         | Mar. 3  | convolution and pooling            |
+| Lecture         | Mar. 5  | object recognition, image-to-image |
+| Lecture         | Mar. 10 | biological vision                  |
+| Lecture         | Mar. 12 | class canceled                     |
+| Spring break    |         |                                    |
+| Pset 4 due      | Mar. 24 | LeNet                              |
+| Lecture         | Mar. 24 | biological vision                  |
+| Lecture         | Mar. 26 | clustering and PCA as neural nets  |
+| Midterm         | Mar. 31 | midterm quiz                       |
+| Lecture         | Apr. 2  | autoencoders                       |
+| Pset 5 due      | Apr. 7  | UNet                               |
+| Lecture         | Apr. 7  | n-grams and word embeddings        |
+| Lecture         | Apr. 9  | RNNs, multistability               |
+| Pset 6 due      | Apr. 14 | unsupervised learning              |
+| Lecture         | Apr. 14 | RNNs, LSTMs, sequences             |
+| Lecture         | Apr. 16 | seq2seq tasks                      |
+| Homework 7 due  | Apr. 21 | project proposal                   |
+| Lecture         | Apr. 21 | project meetings                   |
+| Lecture         | Apr. 23 | project meetings                   |
+| Homework 8 due  | Apr. 28 | intermediate report                |
+| Lecture         | Apr. 28 | project meetings                   |
+| Lecture         | Apr. 30 | final presentations                |
+| Homework 9 due  | May 5   | final report due                   |
 
 #+BEGIN_COMMENT
 | Pset 0 optional  | Feb. 11 | math review                 |
