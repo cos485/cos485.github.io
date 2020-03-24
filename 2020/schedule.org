@@ -46,11 +46,11 @@ Lecture slides can be found [here](https://drive.google.com/open?id=1aVYDxtstZ6o
 | Lecture         | Mar. 10 | biological vision                  |
 | Lecture         | Mar. 12 | class canceled                     |
 | Spring break    |         |                                    |
-| Pset 4 due      | Mar. 24 | LeNet                              |
 | Lecture         | Mar. 24 | biological vision                  |
+| Pset 4 due      | Mar. 26 | LeNet                              |
 | Lecture         | Mar. 26 | clustering and PCA as neural nets  |
-| Midterm         | Mar. 31 | midterm quiz                       |
-| Lecture         | Apr. 2  | autoencoders                       |
+| Lecture         | Mar. 31 | autoencoders                       |
+| Midterm         | Apr. 2  | midterm quiz                       |
 | Pset 5 due      | Apr. 7  | UNet                               |
 | Lecture         | Apr. 7  | n-grams and word embeddings        |
 | Lecture         | Apr. 9  | RNNs, multistability               |
