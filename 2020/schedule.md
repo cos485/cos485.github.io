@@ -10,9 +10,9 @@ permalink: /2020/schedule/
 
 <script>
  $(document).ready(function(){
-     $('td:contains("Pset")').closest('tr').css('background-color','LemonChiffon');
      $('td:contains("Homework")').closest('tr').css('background-color','LemonChiffon');
      $('td:contains("quiz")').closest('tr').css('background-color','LightSalmon');
+     $('td:contains("Pset")').closest('tr').css('background-color','LemonChiffon');
  });
 </script>
 
@@ -131,15 +131,15 @@ Lecture slides can be found [here](https://drive.google.com/open?id=1aVYDxtstZ6o
 </tr>
 
 <tr>
-<td class="org-left">Pset 4 due</td>
-<td class="org-left">Mar. 24</td>
-<td class="org-left">LeNet</td>
-</tr>
-
-<tr>
 <td class="org-left">Lecture</td>
 <td class="org-left">Mar. 24</td>
 <td class="org-left">biological vision</td>
+</tr>
+
+<tr>
+<td class="org-left">Pset 4 due</td>
+<td class="org-left">Mar. 26</td>
+<td class="org-left">LeNet</td>
 </tr>
 
 <tr>
@@ -149,15 +149,15 @@ Lecture slides can be found [here](https://drive.google.com/open?id=1aVYDxtstZ6o
 </tr>
 
 <tr>
-<td class="org-left">Midterm</td>
+<td class="org-left">Lecture</td>
 <td class="org-left">Mar. 31</td>
-<td class="org-left">midterm quiz</td>
+<td class="org-left">autoencoders</td>
 </tr>
 
 <tr>
-<td class="org-left">Lecture</td>
+<td class="org-left">Midterm</td>
 <td class="org-left">Apr. 2</td>
-<td class="org-left">autoencoders</td>
+<td class="org-left">midterm quiz</td>
 </tr>
 
 <tr>
@@ -239,4 +239,3 @@ Lecture slides can be found [here](https://drive.google.com/open?id=1aVYDxtstZ6o
 </tr>
 </tbody>
 </table>
-
