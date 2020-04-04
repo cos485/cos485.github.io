@@ -161,15 +161,15 @@ Lecture slides can be found [here](https://drive.google.com/open?id=1aVYDxtstZ6o
 </tr>
 
 <tr>
-<td class="org-left">Pset 5 due</td>
-<td class="org-left">Apr. 7</td>
-<td class="org-left">UNet</td>
-</tr>
-
-<tr>
 <td class="org-left">Lecture</td>
 <td class="org-left">Apr. 7</td>
 <td class="org-left">n-grams and word embeddings</td>
+</tr>
+
+<tr>
+<td class="org-left">Pset 5 due</td>
+<td class="org-left">Apr. 9</td>
+<td class="org-left">UNet</td>
 </tr>
 
 <tr>
