@@ -13,7 +13,7 @@ processing.
 
 ### Requirements
   - Two 80 minute lectures and one precept per week.  
-  - Grades (A-F) will be based on class participation (5%), problem sets (25%), midterm (30%), and final exam (40%).
+  - Grades (A-F) will be based on class participation (5%), problem sets (45%), midterm (20%), and final project (30%).
   - Participation includes speaking up in lecture and precept.
   - Participation also includes activity on Piazza---ideally asking good questions, giving good answers, and upvoting others' contributions.
 
