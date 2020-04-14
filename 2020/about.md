@@ -13,7 +13,7 @@ processing.
 
 ### Requirements
   - Two 80 minute lectures and one precept per week.  
-  - Grades (A-F) will be based on class participation (5%), problem sets (45%), midterm (20%), and final project (30%).
+  - Grades (A-F) will be based on class participation (5%), problem sets (45%), midterm (20%), and [final project](https://www.notion.so/COS485-Final-Project-Guidelines-7bcd475f0c41449780d972d4277383ba) (30%).
   - Participation includes speaking up in lecture and precept.
   - Participation also includes activity on Piazza---ideally asking good questions, giving good answers, and upvoting others' contributions.
 
@@ -37,6 +37,8 @@ Prof. Sebastian Seung will lecture twice a week.
 ### Online discussions
 You can ask and answer questions on the [Piazza site](https://piazza.com/princeton/spring2020/cos485/home).  Piazza activity counts as class participation and can enhance your grade.
 
+### Final Project Guidelines
+In the final project you will be expected to complete a mini-project on either a theoretical or an applied neural network problem. The project is worth 30% of your grade. You will colaborate in groups of 2-4 people with the help of our project mentors. More detials about project ideas, milestones, and grade breakdown can be found in [the final project guidelines](https://www.notion.so/COS485-Final-Project-Guidelines-7bcd475f0c41449780d972d4277383ba).
 
 ### Homework assignments
 Homework assignments will be due on Tuesdays, and should be submitted on gradescope.
