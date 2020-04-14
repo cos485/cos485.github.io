@@ -38,7 +38,7 @@ Prof. Sebastian Seung will lecture twice a week.
 You can ask and answer questions on the [Piazza site](https://piazza.com/princeton/spring2020/cos485/home).  Piazza activity counts as class participation and can enhance your grade.
 
 ### Final Project Guidelines
-You will be expected to complete a mini-project on either a theoretical or an applied neural network problem. The project is worth 30% of your grade. You will collaborate in groups of 2-4 people with the help of our project mentors. More details about project ideas, milestones, and grade breakdowns can be found in [the final project guidelines](https://www.notion.so/COS485-Final-Project-Guidelines-7bcd475f0c41449780d972d4277383ba).
+You will be expected to complete a mini-project on either a theoretical or an applied neural network problem. The project is worth 30% of your grade. You will collaborate in groups of 3-4 people with the help of our project mentors. More details about project ideas, milestones, and grade breakdowns can be found in [the final project guidelines](https://www.notion.so/COS485-Final-Project-Guidelines-7bcd475f0c41449780d972d4277383ba).
 
 ### Homework assignments
 Homework assignments will be due on Tuesdays, and should be submitted on gradescope.
