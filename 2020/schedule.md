@@ -179,15 +179,15 @@ Lecture slides can be found [here](https://drive.google.com/open?id=1aVYDxtstZ6o
 </tr>
 
 <tr>
-<td class="org-left">Pset 6 due</td>
-<td class="org-left">Apr. 14</td>
-<td class="org-left">unsupervised learning</td>
-</tr>
-
-<tr>
 <td class="org-left">Lecture</td>
 <td class="org-left">Apr. 14</td>
 <td class="org-left">RNNs, LSTMs, sequences</td>
+</tr>
+
+<tr>
+<td class="org-left">Pset 6 due</td>
+<td class="org-left">Apr. 16</td>
+<td class="org-left">unsupervised learning</td>
 </tr>
 
 <tr>
@@ -214,11 +214,6 @@ Lecture slides can be found [here](https://drive.google.com/open?id=1aVYDxtstZ6o
 <td class="org-left">project meetings</td>
 </tr>
 
-<tr>
-<td class="org-left">Homework 8 due</td>
-<td class="org-left">Apr. 28</td>
-<td class="org-left">intermediate report</td>
-</tr>
 
 <tr>
 <td class="org-left">Lecture</td>
@@ -227,14 +222,20 @@ Lecture slides can be found [here](https://drive.google.com/open?id=1aVYDxtstZ6o
 </tr>
 
 <tr>
-<td class="org-left">Lecture</td>
+<td class="org-left">Homework 8 due</td>
 <td class="org-left">Apr. 30</td>
+<td class="org-left">intermediate report</td>
+</tr>
+
+<tr>
+<td class="org-left">Lecture</td>
+<td class="org-left">May 7</td>
 <td class="org-left">final presentations</td>
 </tr>
 
 <tr>
 <td class="org-left">Homework 9 due</td>
-<td class="org-left">May 5</td>
+<td class="org-left">May 12</td>
 <td class="org-left">final report due</td>
 </tr>
 </tbody>
