@@ -54,16 +54,16 @@ Lecture slides can be found [here](https://drive.google.com/open?id=1aVYDxtstZ6o
 | Pset 5 due      | Apr. 7  | UNet                               |
 | Lecture         | Apr. 7  | n-grams and word embeddings        |
 | Lecture         | Apr. 9  | RNNs, multistability               |
-| Pset 6 due      | Apr. 14 | unsupervised learning              |
 | Lecture         | Apr. 14 | RNNs, LSTMs, sequences             |
+| Pset 6 due      | Apr. 16 | unsupervised learning              |
 | Lecture         | Apr. 16 | seq2seq tasks                      |
 | Homework 7 due  | Apr. 21 | project proposal                   |
 | Lecture         | Apr. 21 | project meetings                   |
 | Lecture         | Apr. 23 | project meetings                   |
-| Homework 8 due  | Apr. 28 | intermediate report                |
 | Lecture         | Apr. 28 | project meetings                   |
-| Lecture         | Apr. 30 | final presentations                |
-| Homework 9 due  | May 5   | final report due                   |
+| Homework 8 due  | Apr. 30 | intermediate report                |
+| Lecture         | May 7   | final presentations                |
+| Homework 9 due  | May 12  | final report due                   |
 
 #+BEGIN_COMMENT
 | Pset 0 optional  | Feb. 11 | math review                 |
