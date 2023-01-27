@@ -33,4 +33,4 @@ date:   2019-02-12 14:00:00 EST
 
 ## Troubleshooting
 * Make sure you toolbar says CONNECTED, so you can execute your code.
-* Message one of the TAs or post to Piazza if you run into any problems.
+* Message one of the TAs or post to Ed discussion if you run into any problems.
