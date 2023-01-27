@@ -1,7 +1,7 @@
 ---
 layout: post_2019
 title:  "General guidelines for homework assignments"
-date:   2019-02-12 14:00:00 EST
+date:   2023-01-27 14:00:00 EST
 ---
 
 - All homework assignments are due on Tuesday (see [schedule](http://cos485.github.io/2019/schedule/)), and should be submitted through Gradescope.  
@@ -9,6 +9,8 @@ date:   2019-02-12 14:00:00 EST
 - Programming exercises should be completed in Colaboratory.  
 
   - Please submit to Gradescope a PDF of your notebook including a link to your Colaboratory file using the comments.
+
+- A simple solution to generate a PDF of the notebook consists in using the built-in browser print and save the result as a pdf.
 
 - Theoretical exercises are encouraged to be completed in Colaboratory using LaTeX, as well. You may also submit a PDF scan of a handwritten response.
 
