@@ -1,7 +1,7 @@
 ---
 layout: post_2023
 title:  "Using Colaboratory"
-date:   2021-01-27
+date:   2023-01-27
 ---
 
 # Using Colaboratory  
