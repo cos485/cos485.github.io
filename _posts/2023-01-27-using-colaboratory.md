@@ -1,7 +1,7 @@
 ---
-layout: post_2020
+layout: post_2023
 title:  "Using Colaboratory"
-date:   2020-02-03
+date:   2021-01-27
 ---
 
 # Using Colaboratory  
@@ -33,4 +33,4 @@ date:   2020-02-03
 
 ## Troubleshooting
 * Make sure you toolbar says CONNECTED, so you can execute your code.
-* Message one of the TAs or post to Piazza if you run into any problems.
+* Message one of the TAs or post to Ed Discussion if you run into any problems.
