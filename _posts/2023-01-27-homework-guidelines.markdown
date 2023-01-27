@@ -1,5 +1,5 @@
 ---
-layout: post_2019
+layout: post_2023
 title:  "General guidelines for homework assignments"
 date:   2023-01-27 14:00:00 EST
 ---
