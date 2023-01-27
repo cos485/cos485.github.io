@@ -1,20 +1,22 @@
 ---
-layout: post_2018
+layout: post_2023
 title:  "General guidelines for homework assignments"
-date:   2018-02-08 14:30:00 -0500
+date:   2023-01-27 14:30:00 -0500
 categories: general
 author: "Sebastian Seung"
 ---
 
-- All homework assignments are due on Thursday (see [schedule](http://cos485.github.io/2018/schedule/)), and should be submitted through Blackboard.  
+- All homework assignments are due on Friday (see [schedule](http://cos485.github.io/2018/schedule/)), and should be submitted through Gradescope.  
 
 - Programming exercises should be completed in Colaboratory.  
 
-  - Please submit to Blackboard (i) a link to your Colaboratory file using the comments, and (ii) the notebook itself.
+  - Please submit to Gradescope (i) a pdf of your Colaboratory notebook, and (ii) the notebook itself.
 
 - Theoretical exercises are encouraged to be completed in Colaboratory using LaTeX, as well. You may also submit a PDF scan of a handwritten response.
 
-  - If using Colaboratory, please submit to Blackboard (i) a link to your Colaboratory file using the comments, and (ii) the notebook itself.
+  - If using Colaboratory, please submit to Gradescope (i) a pdf of your Colaboratory notebook, and (ii) the notebook itself.
+
+- A simple solution to generate a pdf file of your Colaboratory notebook consists in using the built-in browser print and save the result as a pdf.
   
 - For Colaboratory notebook submissions, please
  
