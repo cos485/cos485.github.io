@@ -4,7 +4,7 @@ title:  "General guidelines for homework assignments"
 date:   2023-01-29 
 ---
 
-- All homework assignments are due on Tuesday (see [schedule](http://cos485.github.io/2023/schedule/)), and should be submitted through Gradescope.  
+- All homework assignments are due on Fridays (see [schedule](http://cos485.github.io/2023/schedule/)), and should be submitted through Gradescope.  
 
 - Programming exercises should be completed in Colaboratory.  
 

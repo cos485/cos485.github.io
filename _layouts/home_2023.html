@@ -4,8 +4,17 @@ layout: default_2023
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+    <h1 class="page-heading">Posts</h1>
 
+    <!-- 
+         <pre id="jekyll-debug"></pre>
+         <script>
+         var obj = JSON.parse(decodeURIComponent("{{ site.posts | jsonify | uri_escape }}"));
+         var prettyJson = JSON.stringify(obj, null, 4);  // Pretty-printed JSON (indented 4 spaces).
+         document.getElementById("jekyll-debug").textContent = prettyJson;
+         </script>
+    -->
+    
   {{ content }}
 
   <ul class="post-list">
@@ -17,7 +26,7 @@ layout: default_2023
 
           <h2>
             <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-            {{ post.content }}
+
           </h2>
         </li>
       {% endif %}
