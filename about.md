@@ -26,9 +26,9 @@ Prof. Sebastian Seung will lecture twice a week.
 - MW 11-12:20pm [McCosh Hall][mccosh-hall] 4
 
 ### Office Hours
- 
-- Th 9:00-9:50 am [Friend Center][friend-center]	110 [Zoom](https://princeton.zoom.us/j/882927292), Samy Jelassi
-- Th 7:30-8:20pm	 [Friend Center][friend-center] 108 [Zoom](https://princeton.zoom.us/j/911464581), Zhenyu Song
+TBD
+<!-- - Th 9:00-9:50 am [Friend Center][friend-center]	110 [Zoom](https://princeton.zoom.us/j/882927292), Samy Jelassi -->
+<!-- - Th 7:30-8:20pm	 [Friend Center][friend-center] 108 [Zoom](https://princeton.zoom.us/j/911464581), Zhenyu Song -->
 
 
 ### Online discussions
