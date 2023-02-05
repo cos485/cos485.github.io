@@ -15,7 +15,7 @@ permalink: /2023/schedule/
  });
 </script>
 
-Lecture slides can be found [here](https://drive.google.com/drive/folders/117sLpWGyqBjMILgibwnofzY0adactYiM?usp=sharing).
+Lecture slides and Jupyter notebooks can be found [here](https://drive.google.com/drive/folders/117sLpWGyqBjMILgibwnofzY0adactYiM?usp=sharing).
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 
@@ -238,5 +238,3 @@ Lecture slides can be found [here](https://drive.google.com/drive/folders/117sLp
 </tr>
 </tbody>
 </table>
-
-
