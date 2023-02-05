@@ -25,9 +25,7 @@ permalink: /2023/schedule/
  });
 </script>
 
-<!np--
-Lecture slides can be found [here](https://drive.google.com/open?id=1aVYDxtstZ6o1dNHph0rFecqq5xuZip8C).
--->
+Lecture slides can be found [here](https://drive.google.com/drive/folders/117sLpWGyqBjMILgibwnofzY0adactYiM?usp=sharing).
 
 #+END_EXPORT
 | Lecture 1       | Jan. 30 | overview, simple perceptrons    |

@@ -22,7 +22,7 @@ date:   2023-01-29
   
   - set the share permissions so that "Anyone with the link can view"
   
-  - see the [Using Colaboratory](https://cos485.github.io/2020/02/03/using-colaboratory.html) post for more information.
+  - see the [Using Colaboratory](https://cos485.github.io/2023/01/29/using-colaboratory.html) post for more information.
 
 - You may collaborate with others when solving the problems, but your writeup should be your own work.
 
