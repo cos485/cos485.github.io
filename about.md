@@ -31,8 +31,8 @@ Prof. Sebastian Seung will lecture twice a week.
 
 
 ### Office Hours
-- Th 12:30-1:20pm [Friend Center 010][friend-center]
-- Th 7:30 -8:20pm	[Friend Center 010][friend-center]
+- Th 12:30-1:20pm Sherrerd H 001
+- Th 7:30 -8:20pm	Friend Cen 112
 
 Additional office hours are available by appointment to those with conflicts.
 
