@@ -16,6 +16,11 @@ date:   2023-01-29
   
 - A simple method to generate a PDF of your Colaboratory consists in using the built-in browser print and save the result as a pdf.
 
+- On Gradescope, you can only submit one PDF file for the whole HW. Please create a PDF file for each notebook and merge all the PDF files you have. 
+
+-  Regarding the code, you only need to share a link directing to your Colab notebooks (and ensure that you grant access to your Colab). Please paste your
+   Colab links at the beginning of your submission. 
+
 - For Colaboratory notebook submissions, please
  
   - make sure that all cell outputs are clearly visible before saving the notebook.
