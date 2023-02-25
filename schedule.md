@@ -11,7 +11,7 @@ permalink: /2023/schedule/
 <script>
  $(document).ready(function(){
      $('td:contains("Pset")').closest('tr').css('background-color','LemonChiffon');
-     $('td:contains("exam")').closest('tr').css('background-color','LightSalmon');
+     $('td:contains("Exam")').closest('tr').css('background-color','LightSalmon');
  });
 </script>
 
@@ -90,43 +90,43 @@ Lecture slides and Jupyter notebooks can be found [here](https://drive.google.co
 <tr>
 <td class="org-left">Lecture 7</td>
 <td class="org-left">Feb. 22</td>
-<td class="org-left">deconvolution etc</td>
+<td class="org-left">exam retrospective</td>
 </tr>
 
 <tr>
 <td class="org-left">Lecture 8</td>
 <td class="org-left">Feb. 27</td>
-<td class="org-left">segmentation</td>
+<td class="org-left">BatchNorm, transfer learning</td>
 </tr>
 
 <tr>
 <td class="org-left">Lecture 9</td>
 <td class="org-left">Mar. 1</td>
-<td class="org-left">denoising</td>
+<td class="org-left">object detection</td>
 </tr>
 
 <tr>
 <td class="org-left">Pset 3 due</td>
 <td class="org-left">Mar. 3</td>
-<td class="org-left">segmentation</td>
+<td class="org-left">object classification/detection</td>
 </tr>
 
 <tr>
 <td class="org-left">Lecture 10</td>
 <td class="org-left">Mar. 6</td>
-<td class="org-left">diffusion models</td>
+<td class="org-left">deconvolution layers</td>
 </tr>
 
 <tr>
 <td class="org-left">Lecture 11</td>
 <td class="org-left">Mar. 8</td>
-<td class="org-left">word embeddings</td>
+<td class="org-left">segmentation</td>
 </tr>
 
 <tr>
 <td class="org-left">Pset 4 due</td>
 <td class="org-left">Mar. 10</td>
-<td class="org-left">diffusion models</td>
+<td class="org-left">segmentation and denoising</td>
 </tr>
 
 <tr>
@@ -138,31 +138,31 @@ Lecture slides and Jupyter notebooks can be found [here](https://drive.google.co
 <tr>
 <td class="org-left">Lecture 12</td>
 <td class="org-left">Mar. 20</td>
-<td class="org-left">attentional layers</td>
+<td class="org-left">diffusion models</td>
 </tr>
 
 <tr>
 <td class="org-left">Lecture 13</td>
 <td class="org-left">Mar. 22</td>
-<td class="org-left">transformers</td>
+<td class="org-left">attention</td>
 </tr>
 
 <tr>
 <td class="org-left">Pset 5 due</td>
 <td class="org-left">Mar. 24</td>
-<td class="org-left">word embeddings</td>
+<td class="org-left">diffusion models</td>
 </tr>
 
 <tr>
 <td class="org-left">Lecture 14</td>
 <td class="org-left">Mar. 27</td>
-<td class="org-left">large language models</td>
+<td class="org-left">transformers</td>
 </tr>
 
 <tr>
 <td class="org-left">Lecture 15</td>
 <td class="org-left">Mar. 29</td>
-<td class="org-left">backprop &amp; autograd</td>
+<td class="org-left">language modeling</td>
 </tr>
 
 <tr>
@@ -174,7 +174,7 @@ Lecture slides and Jupyter notebooks can be found [here](https://drive.google.co
 <tr>
 <td class="org-left">Lecture 16</td>
 <td class="org-left">Apr. 3</td>
-<td class="org-left">parallel computation</td>
+<td class="org-left">LLMs</td>
 </tr>
 
 <tr>
@@ -186,49 +186,49 @@ Lecture slides and Jupyter notebooks can be found [here](https://drive.google.co
 <tr>
 <td class="org-left">Lecture 17</td>
 <td class="org-left">Apr. 10</td>
-<td class="org-left">policy gradient</td>
+<td class="org-left">conditional image generation</td>
 </tr>
 
 <tr>
 <td class="org-left">Lecture 18</td>
 <td class="org-left">Apr. 12</td>
-<td class="org-left">prompt engineering, RLHF</td>
+<td class="org-left">policy gradient</td>
 </tr>
 
 <tr>
-<td class="org-left">Pset 7 due</td>
+<td class="org-left">Project</td>
 <td class="org-left">Apr. 14</td>
-<td class="org-left">policy gradient</td>
+<td class="org-left">proposal due</td>
 </tr>
 
 <tr>
 <td class="org-left">Lecture 19</td>
 <td class="org-left">Apr. 17</td>
-<td class="org-left">supervised metric learning</td>
+<td class="org-left">prompt engineering, RLHF</td>
 </tr>
 
 <tr>
 <td class="org-left">Lecture 20</td>
 <td class="org-left">Apr. 19</td>
-<td class="org-left">self-supervised learning</td>
+<td class="org-left">project meetings</td>
 </tr>
 
 <tr>
-<td class="org-left">Pset 8 due</td>
+<td class="org-left">Project</td>
 <td class="org-left">Apr. 21</td>
-<td class="org-left">metric learning</td>
+<td class="org-left">status report</td>
 </tr>
 
 <tr>
 <td class="org-left">Lecture 21</td>
 <td class="org-left">Apr. 24</td>
-<td class="org-left">projects</td>
+<td class="org-left">AI safety</td>
 </tr>
 
 <tr>
 <td class="org-left">Lecture 22</td>
 <td class="org-left">Apr. 26</td>
-<td class="org-left">projects</td>
+<td class="org-left">project meetings</td>
 </tr>
 
 <tr>
