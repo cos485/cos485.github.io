@@ -28,38 +28,38 @@ permalink: /2023/schedule/
 Lecture slides and Jupyter notebooks can be found [here](https://drive.google.com/drive/folders/117sLpWGyqBjMILgibwnofzY0adactYiM?usp=sharing).
 
 #+END_EXPORT
-| Lecture 1       | Jan. 30 | overview, simple perceptrons    |
-| Lecture 2       | Feb. 1  | stochastic gradient descent     |
-| Pset 0 optional | Feb. 3  | math review                     |
-| Lecture 3       | Feb. 6  | multilayer perceptrons          |
-| Lecture 4       | Feb. 8  | convolution and pooling         |
-| Pset 1 due      | Feb. 10 | perceptrons                     |
-| Lecture 5       | Feb. 13 | visual object recognition       |
-| Lecture 6       | Feb. 15 | generalization & regularization |
-| Pset 2 due      | Feb. 17 | convolutional nets              |
-| Exam            | Feb. 20 |                                 |
-| Lecture 7       | Feb. 22 | deconvolution etc               |
-| Lecture 8       | Feb. 27 | segmentation                    |
-| Lecture 9       | Mar. 1  | denoising                       |
-| Pset 3 due      | Mar. 3  | segmentation                    |
-| Lecture 10      | Mar. 6  | diffusion models                |
-| Lecture 11      | Mar. 8  | word embeddings                 |
-| Pset 4 due      | Mar. 10 | diffusion models                |
-| Break           |         |                                 |
-| Lecture 12      | Mar. 20 | attentional layers              |
-| Lecture 13      | Mar. 22 | transformers                    |
-| Pset 5 due      | Mar. 24 | word embeddings                 |
-| Lecture 14      | Mar. 27 | large language models           |
-| Lecture 15      | Mar. 29 | backprop & autograd             |
-| Pset 6 due      | Mar. 31 | transformers                    |
-| Lecture 16      | Apr. 3  | parallel computation            |
-| Exam            | Apr. 5  |                                 |
-| Lecture 17      | Apr. 10 | policy gradient                 |
-| Lecture 18      | Apr. 12 | prompt engineering, RLHF        |
-| Pset 7 due      | Apr. 14 | policy gradient                 |
-| Lecture 19      | Apr. 17 | supervised metric learning      |
-| Lecture 20      | Apr. 19 | self-supervised learning        |
-| Pset 8 due      | Apr. 21 | metric learning                 |
-| Lecture 21      | Apr. 24 | projects                        |
-| Lecture 22      | Apr. 26 | projects                        |
-| Final project   | May 9   | (Dean's date)                   |
+| Lecture 1       | Jan. 30 | overview, simple perceptrons      |
+| Lecture 2       | Feb. 1  | stochastic gradient descent       |
+| Pset 0 optional | Feb. 3  | math review                       |
+| Lecture 3       | Feb. 6  | multilayer perceptrons            |
+| Lecture 4       | Feb. 8  | convolution and pooling           |
+| Pset 1 due      | Feb. 10 | perceptrons                       |
+| Lecture 5       | Feb. 13 | visual object recognition         |
+| Lecture 6       | Feb. 15 | generalization & regularization   |
+| Pset 2 due      | Feb. 17 | convolutional nets                |
+| Exam            | Feb. 20 |                                   |
+| Lecture 7       | Feb. 22 | exam retrospective                |
+| Lecture 8       | Feb. 27 | BatchNorm, object detection       |
+| Lecture 9       | Mar. 1  | deconvolution, image to image     |
+| Pset 3 due      | Mar. 3  | object detection & classification |
+| Lecture 10      | Mar. 6  | diffusion models                  |
+| Lecture 11      | Mar. 8  |                                   |
+| Pset 4 due      | Mar. 10 | segmentation and denoising        |
+| Break           |         |                                   |
+| Lecture 12      | Mar. 20 | attentional layers                |
+| Lecture 13      | Mar. 22 | transformers                      |
+| Pset 5 due      | Mar. 24 | diffusion models                  |
+| Lecture 14      | Mar. 27 | large language models             |
+| Lecture 15      | Mar. 29 | backprop & autograd               |
+| Pset 6 due      | Mar. 31 | transformers                      |
+| Lecture 16      | Apr. 3  | parallel computation              |
+| Exam            | Apr. 5  |                                   |
+| Lecture 17      | Apr. 10 | policy gradient                   |
+| Lecture 18      | Apr. 12 | prompt engineering, RLHF          |
+| Pset 7 due      | Apr. 14 |                                   |
+| Lecture 19      | Apr. 17 | supervised metric learning        |
+| Lecture 20      | Apr. 19 | self-supervised learning          |
+| Pset 8 due      | Apr. 21 | policy gradient                   |
+| Lecture 21      | Apr. 24 | projects                          |
+| Lecture 22      | Apr. 26 | projects                          |
+| Final project   | May 9   | (Dean's date)                     |
