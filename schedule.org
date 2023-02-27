@@ -54,7 +54,7 @@ Lecture slides and Jupyter notebooks can be found [here](https://drive.google.co
 | Pset 6 due         | Mar. 31 | transformers                    |
 | Lecture 16         | Apr. 3  | LLMs                            |
 | Exam               | Apr. 5  |                                 |
-| Lecture 17         | Apr. 10 | conditional image generation    |
+| Lecture 17         | Apr. 10 | text-conditional image generation |
 | Lecture 18         | Apr. 12 | policy gradient                 |
 | Project            | Apr. 14 | proposal due                    |
 | Lecture 19         | Apr. 17 | prompt engineering, RLHF        |
