@@ -15,7 +15,8 @@ permalink: /2024/schedule/
  });
 </script>
 
-Lecture slides and Jupyter notebooks can be found [here](https://drive.google.com/drive/folders/117sLpWGyqBjMILgibwnofzY0adactYiM?usp=sharing).
+Lecture slides and Jupyter notebooks can be found
+[here](https://drive.google.com/drive/folders/1R1UBCRE37R-NphohS-iyapiejH2R9b-D?usp=sharing).
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 
@@ -241,7 +242,7 @@ Lecture slides and Jupyter notebooks can be found [here](https://drive.google.co
 </div>
 <div id="postamble" class="status">
 <p class="author">Author: Sebastian Seung</p>
-<p class="date">Created: 2024-01-29 Mon 09:19</p>
+<p class="date">Created: 2024-01-29 Mon 10:26</p>
 <p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>

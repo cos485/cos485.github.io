@@ -9,7 +9,7 @@ save as md file
 
 #+BEGIN_EXPORT html
 ---
-layout: page_2023
+layout: page_2024
 title: Schedule
 year: 2024
 permalink: /2024/schedule/
@@ -25,7 +25,8 @@ permalink: /2024/schedule/
  });
 </script>
 
-Lecture slides and Jupyter notebooks can be found [here](https://drive.google.com/drive/folders/117sLpWGyqBjMILgibwnofzY0adactYiM?usp=sharing).
+Lecture slides and Jupyter notebooks can be found
+[here](https://drive.google.com/drive/folders/1R1UBCRE37R-NphohS-iyapiejH2R9b-D?usp=sharing).
 
 #+END_EXPORT
 | Lecture 1       | Jan. 29 | overview, simple perceptrons      |
