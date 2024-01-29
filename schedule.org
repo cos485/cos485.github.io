@@ -11,8 +11,8 @@ save as md file
 ---
 layout: page_2023
 title: Schedule
-year: 2023
-permalink: /2023/schedule/
+year: 2024
+permalink: /2024/schedule/
 ---
 <script src="https://code.jquery.com/jquery-3.1.1.js"
         integrity="sha256-16cdPddA6VdVInumRGo6IbivbERE8p7CQR3HzTBuELA="
@@ -28,38 +28,38 @@ permalink: /2023/schedule/
 Lecture slides and Jupyter notebooks can be found [here](https://drive.google.com/drive/folders/117sLpWGyqBjMILgibwnofzY0adactYiM?usp=sharing).
 
 #+END_EXPORT
-| Lecture 1          | Jan. 30 | overview, simple perceptrons    |
-| Lecture 2          | Feb. 1  | stochastic gradient descent     |
-| Pset 0 optional    | Feb. 3  | math review                     |
-| Lecture 3          | Feb. 6  | multilayer perceptrons          |
-| Lecture 4          | Feb. 8  | convolution and pooling         |
-| Pset 1 due         | Feb. 10 | perceptrons                     |
-| Lecture 5          | Feb. 13 | visual object recognition       |
-| Lecture 6          | Feb. 15 | generalization & regularization |
-| Pset 2 due         | Feb. 17 | convolutional nets              |
-| Exam               | Feb. 20 |                                 |
-| Lecture 7          | Feb. 22 | exam retrospective              |
-| Lecture 8          | Feb. 27 | BatchNorm, transfer learning    |
-| Lecture 9          | Mar. 1  | object detection                |
-| Pset 3 due         | Mar. 3  | object classification/detection |
-| Lecture 10         | Mar. 6  | deconvolution layers            |
-| Lecture 11         | Mar. 8  | segmentation                    |
-| Pset 4 due         | Mar. 10 | segmentation and denoising      |
-| Break              |         |                                 |
-| Lecture 12         | Mar. 20 | diffusion models                |
-| Lecture 13         | Mar. 22 | attention                       |
-| Pset 5 due         | Mar. 24 | diffusion models                |
-| Lecture 14         | Mar. 27 | transformers                    |
-| Lecture 15         | Mar. 29 | language modeling               |
-| Pset 6 due         | Mar. 31 | transformers                    |
-| Lecture 16         | Apr. 3  | LLMs                            |
-| Exam               | Apr. 5  |                                 |
-| Lecture 17         | Apr. 10 | text-conditional image generation |
-| Lecture 18         | Apr. 12 | policy gradient                 |
-| Project            | Apr. 14 | proposal due                    |
-| Lecture 19         | Apr. 17 | prompt engineering, RLHF        |
-| Lecture 20         | Apr. 19 | project meetings                |
-| Project            | Apr. 21 | status report                   |
-| Lecture 21         | Apr. 24 | AI safety                       |
-| Lecture 22         | Apr. 26 | project meetings                |
-| Final project      | May 9   | (Dean's date)                   |
+| Lecture 1       | Jan. 29 | overview, simple perceptrons      |
+| Lecture 2       | Jan. 31 | stochastic gradient descent       |
+| Pset 0 optional | Feb. 2  | math review                       |
+| Lecture 3       | Feb. 5  | multilayer perceptrons            |
+| Lecture 4       | Feb. 7  | convolution and pooling           |
+| Pset 1 due      | Feb. 9  | perceptrons                       |
+| Lecture 5       | Feb. 12 | visual object recognition         |
+| Lecture 6       | Feb. 14 | generalization & regularization   |
+| Pset 2 due      | Feb. 16 | convolutional nets                |
+| Exam            | Feb. 19 |                                   |
+| Lecture 7       | Feb. 21 | exam retrospective                |
+| Lecture 8       | Feb. 26 | BatchNorm, transfer learning      |
+| Lecture 9       | Feb. 28 | object detection                  |
+| Pset 3 due      | Mar. 1  | object classification/detection   |
+| Lecture 10      | Mar. 4  | deconvolution layers              |
+| Lecture 11      | Mar. 6  | segmentation                      |
+| Pset 4 due      | Mar. 8  | segmentation and denoising        |
+| Break           |         |                                   |
+| Lecture 12      | Mar. 18 | diffusion models                  |
+| Lecture 13      | Mar. 20 | attention                         |
+| Pset 5 due      | Mar. 22 | diffusion models                  |
+| Lecture 14      | Mar. 25 | transformers                      |
+| Exam            | Mar. 27 |                                   |
+| Lecture 15      | Apr. 1  | language modeling                 |
+| Lecture 16      | Apr. 3  | LLMs                              |
+| Pset 6 due      | Apr. 5  | transformers                      |
+| Lecture 17      | Apr. 8  | text-conditional image generation |
+| Lecture 18      | Apr. 10 | policy gradient                   |
+| Project         | Apr. 12 | proposal due                      |
+| Lecture 19      | Apr. 15 | prompt engineering, RLHF          |
+| Lecture 20      | Apr. 17 | project meetings                  |
+| Project         | Apr. 19 | status report                     |
+| Lecture 21      | Apr. 22 | AI safety                         |
+| Lecture 22      | Apr. 24 | project meetings                  |
+| Final project   | May 7   | (Dean's date)                     |

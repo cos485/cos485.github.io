@@ -1,8 +1,8 @@
 ---
-layout: page_2024
+layout: page_2023
 title: Resources
-year: 2024
-permalink: /2024/resources/
+year: 2023
+permalink: /202e/resources/
 ---
 
 

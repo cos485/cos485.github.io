@@ -1,8 +1,8 @@
 ---
-layout: page_2024
+layout: page_2023
 title: About
-year: 2024
-permalink: /2024/about/
+year: 2023
+permalink: /2023/about/
 # published: false
 ---
 
@@ -10,7 +10,7 @@ Organization of synaptic connectivity as the basis of neural computation and lea
 
 ### Requirements
   - Two 80 minute lectures per week.  
-  - Grades (A-F) will be based on class participation (5%), problem sets (25%), in-class exams (40%), and final project (30%).
+  - Grades (A-F) will be based on class participation (5%), problem sets (25%), in-class exams (40%), and [final project](https://www.notion.so/COS485-Final-Project-Guidelines-7bcd475f0c41449780d972d4277383ba) (30%).
   - Participation includes speaking up in lecture and precept.
   - Participation also includes activity on Ed---ideally asking good questions, giving good answers, and upvoting others' contributions.
 
@@ -23,24 +23,21 @@ Organization of synaptic connectivity as the basis of neural computation and lea
 ### Lectures
 Prof. Sebastian Seung will lecture twice a week.
 
-- MW 11-12:20pm [Friend][friend-center] 101
+- MW 11-12:20pm [McCosh Hall][mccosh-hall] 4
 
 ### TAs
-- Jiayi Geng 
-- Chenyue Cai 
-- Hongyu Wen 
+- Samy Jelassi
+- Zhenyu Song
+
 
 ### Office Hours
-- Th 9:00–9:50am Sherrerd H 001
-- Th 10:00-10:50pm Sherrerd H 001
-- Th 7:30-8:20pm Sherrerd H 001
+- Th 9:00–9:50am Friend Cen 110
+- Th 12:30-1:20pm Sherrerd H 001
 
 Additional office hours are available by appointment to those with conflicts.
 
 ### Online discussions
-<!---
 You can ask and answer questions on the [Ed site](https://edstem.org/us/courses/36236/discussion/).  Ed activity counts as class participation and can enhance your grade.
---->
 
 ### Final Project Guidelines
 There will be no final exam in this class. Instead, a final project will be worth 25% of your grade. More details will be posted later on.
@@ -53,8 +50,8 @@ Homework assignments will be due on Fridays, and should be submitted on gradesco
 There is a accumulated percentage drop on the overall points of 20% per day (eg. 2 days late => -40%). If you have reasons (eg. conference, illness, ...) for why you cannot make a deadline, write us (all instructors) an E-mail *before* the deadline including a suggested new deadline. We will grant requests on an individual basis.
 
 ### Other links
-- [Princeton registrar](https://registrar.princeton.edu/course-offerings/course-details?term=1244&courseid=014447)
-- [COS Dept](https://www.cs.princeton.edu/courses/archive/spring24/cos485)
+- [Princeton registrar](https://registrar.princeton.edu/course-offerings?term=1204&subject=COS)
+- [COS Dept](http://www.cs.princeton.edu/courses/archive/spring20/cos485/)
 
 [mccosh-hall]: https://goo.gl/maps/VY1rCGpwGhYzeNMy9
 [friend-center]: https://goo.gl/maps/FbGwEnmNAnC2
