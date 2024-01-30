@@ -38,9 +38,7 @@ Prof. Sebastian Seung will lecture twice a week.
 Additional office hours are available by appointment to those with conflicts.
 
 ### Online discussions
-<!---
-You can ask and answer questions on the [Ed site](https://edstem.org/us/courses/36236/discussion/).  Ed activity counts as class participation and can enhance your grade.
---->
+You can ask and answer questions on the [Ed site](https://edstem.org/us/courses/55642/discussion/).  Ed activity counts as class participation and can enhance your grade.
 
 ### Final Project Guidelines
 There will be no final exam in this class. Instead, a final project will be worth 25% of your grade. More details will be posted later on.
