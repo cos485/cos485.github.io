@@ -31,11 +31,10 @@ Prof. Sebastian Seung will lecture twice a week.
 - Hongyu Wen 
 
 ### Office Hours
-- Th 9:00–9:50am Sherrerd H 001
-- Th 10:00-10:50pm Sherrerd H 001
-- Th 7:30-8:20pm Sherrerd H 001
+- Th 10:00-10:50pm Sherrerd H 001 (Chenyue Cai)
+- Th 7:30-8:20pm Sherrerd H 001 (Hongyu Wen)
 
-Additional office hours are available by appointment to those with conflicts.
+For students who can't attend these hours, additional office hours with Jiayi Geng are available by appointment.
 
 ### Online discussions
 You can ask and answer questions on the [Ed site](https://edstem.org/us/courses/55642/discussion/).  Ed activity counts as class participation and can enhance your grade.
