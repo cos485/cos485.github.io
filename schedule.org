@@ -33,13 +33,13 @@ Lecture slides and Jupyter notebooks can be found
 | Lecture 2       | Jan. 31 | stochastic gradient descent       |
 | Pset 0 optional | Feb. 2  | math review                       |
 | Lecture 3       | Feb. 5  | multilayer perceptrons            |
-| Lecture 4       | Feb. 7  | convolution and pooling           |
+| Lecture 4       | Feb. 7  | convolution                       |
 | Pset 1 due      | Feb. 9  | perceptrons                       |
-| Lecture 5       | Feb. 12 | visual object recognition         |
-| Lecture 6       | Feb. 14 | generalization & regularization   |
+| Lecture 5       | Feb. 12 | convolutional nets                |
+| Lecture 6       | Feb. 14 | visual object recognition         |
 | Pset 2 due      | Feb. 16 | convolutional nets                |
-| Exam            | Feb. 19 |                                   |
-| Lecture 7       | Feb. 21 | exam retrospective                |
+| Exam            | Feb. 19 | generalization & regularization   |
+| Lecture 7       | Feb. 21 | exam                              |
 | Lecture 8       | Feb. 26 | BatchNorm, transfer learning      |
 | Lecture 9       | Feb. 28 | object detection                  |
 | Pset 3 due      | Mar. 1  | object classification/detection   |

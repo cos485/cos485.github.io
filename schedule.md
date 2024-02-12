@@ -55,7 +55,7 @@ Lecture slides and Jupyter notebooks can be found
 <tr>
 <td class="org-left">Lecture 4</td>
 <td class="org-left">Feb. 7</td>
-<td class="org-left">convolution and pooling</td>
+<td class="org-left">convolution</td>
 </tr>
 
 <tr>
@@ -67,13 +67,13 @@ Lecture slides and Jupyter notebooks can be found
 <tr>
 <td class="org-left">Lecture 5</td>
 <td class="org-left">Feb. 12</td>
-<td class="org-left">visual object recognition</td>
+<td class="org-left">convolutional nets</td>
 </tr>
 
 <tr>
 <td class="org-left">Lecture 6</td>
 <td class="org-left">Feb. 14</td>
-<td class="org-left">generalization &amp; regularization</td>
+<td class="org-left">visual object recognition</td>
 </tr>
 
 <tr>
@@ -85,13 +85,13 @@ Lecture slides and Jupyter notebooks can be found
 <tr>
 <td class="org-left">Exam</td>
 <td class="org-left">Feb. 19</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">generalization &amp; regularization</td>
 </tr>
 
 <tr>
 <td class="org-left">Lecture 7</td>
 <td class="org-left">Feb. 21</td>
-<td class="org-left">exam retrospective</td>
+<td class="org-left">exam</td>
 </tr>
 
 <tr>
@@ -242,7 +242,7 @@ Lecture slides and Jupyter notebooks can be found
 </div>
 <div id="postamble" class="status">
 <p class="author">Author: Sebastian Seung</p>
-<p class="date">Created: 2024-01-29 Mon 10:26</p>
+<p class="date">Created: 2024-02-12 Mon 15:35</p>
 <p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
