@@ -79,17 +79,17 @@ Lecture slides and Jupyter notebooks can be found
 <tr>
 <td class="org-left">Pset 2 due</td>
 <td class="org-left">Feb. 16</td>
-<td class="org-left">convolutional nets</td>
+<td class="org-left">MLPs and convolution</td>
 </tr>
 
 <tr>
-<td class="org-left">Exam</td>
+<td class="org-left">Lecture 7</td>
 <td class="org-left">Feb. 19</td>
 <td class="org-left">generalization &amp; regularization</td>
 </tr>
 
 <tr>
-<td class="org-left">Lecture 7</td>
+<td class="org-left">Exam</td>
 <td class="org-left">Feb. 21</td>
 <td class="org-left">exam</td>
 </tr>
@@ -242,7 +242,7 @@ Lecture slides and Jupyter notebooks can be found
 </div>
 <div id="postamble" class="status">
 <p class="author">Author: Sebastian Seung</p>
-<p class="date">Created: 2024-02-12 Mon 15:35</p>
+<p class="date">Created: 2024-02-14 Wed 09:46</p>
 <p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
