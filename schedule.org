@@ -37,9 +37,9 @@ Lecture slides and Jupyter notebooks can be found
 | Pset 1 due      | Feb. 9  | perceptrons                       |
 | Lecture 5       | Feb. 12 | convolutional nets                |
 | Lecture 6       | Feb. 14 | visual object recognition         |
-| Pset 2 due      | Feb. 16 | convolutional nets                |
-| Exam            | Feb. 19 | generalization & regularization   |
-| Lecture 7       | Feb. 21 | exam                              |
+| Pset 2 due      | Feb. 16 | MLPs and convolution              |
+| Lecture 7       | Feb. 19 | generalization & regularization   |
+| Exam            | Feb. 21 | exam                              |
 | Lecture 8       | Feb. 26 | BatchNorm, transfer learning      |
 | Lecture 9       | Feb. 28 | object detection                  |
 | Pset 3 due      | Mar. 1  | object classification/detection   |
