@@ -239,11 +239,3 @@ Lecture slides and Jupyter notebooks can be found
 </tr>
 </tbody>
 </table>
-</div>
-<div id="postamble" class="status">
-<p class="author">Author: Sebastian Seung</p>
-<p class="date">Created: 2024-02-14 Wed 09:46</p>
-<p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
-</div>
-</body>
-</html>
