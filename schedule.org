@@ -47,15 +47,15 @@ Lecture slides and Jupyter notebooks can be found
 | Lecture 11      | Mar. 6  | segmentation                      |
 | Pset 4 due      | Mar. 8  | segmentation and denoising        |
 | Break           |         |                                   |
-| Lecture 12      | Mar. 18 | diffusion models                  |
-| Lecture 13      | Mar. 20 | attention                         |
+| Lecture 12      | Mar. 18 | autoencoders and diffusion models |
+| Lecture 13      | Mar. 20 | language models                   |
 | Pset 5 due      | Mar. 22 | diffusion models                  |
-| Lecture 14      | Mar. 25 | transformers                      |
+| Lecture 14      | Mar. 25 | review                            |
 | Exam            | Mar. 27 |                                   |
-| Lecture 15      | Apr. 1  | language modeling                 |
-| Lecture 16      | Apr. 3  | LLMs                              |
+| Lecture 15      | Apr. 1  | attention                         |
+| Lecture 16      | Apr. 3  | transformers and GPT              |
 | Pset 6 due      | Apr. 5  | transformers                      |
-| Lecture 17      | Apr. 8  | text-conditional image generation |
+| Lecture 17      | Apr. 8  | in-context learning               |
 | Lecture 18      | Apr. 10 | policy gradient                   |
 | Project         | Apr. 12 | proposal due                      |
 | Lecture 19      | Apr. 15 | prompt engineering, RLHF          |
