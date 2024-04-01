@@ -39,7 +39,7 @@ Lecture slides and Jupyter notebooks can be found
 | Lecture 6       | Feb. 14 | visual object recognition         |
 | Pset 2 due      | Feb. 16 | MLPs and convolution              |
 | Lecture 7       | Feb. 19 | generalization & regularization   |
-| Exam            | Feb. 21 | exam                              |
+| Exam            | Feb. 21 | Exam 1                            |
 | Lecture 8       | Feb. 26 | BatchNorm, transfer learning      |
 | Lecture 9       | Feb. 28 | object detection                  |
 | Pset 3 due      | Mar. 1  | object classification/detection   |
@@ -48,12 +48,12 @@ Lecture slides and Jupyter notebooks can be found
 | Pset 4 due      | Mar. 8  | segmentation and denoising        |
 | Break           |         |                                   |
 | Lecture 12      | Mar. 18 | autoencoders and diffusion models |
-| Lecture 13      | Mar. 20 | language models                   |
+| Lecture 13      | Mar. 20 | language models and attention     |
 | Pset 5 due      | Mar. 22 | diffusion models                  |
 | Lecture 14      | Mar. 25 | review                            |
-| Exam            | Mar. 27 |                                   |
-| Lecture 15      | Apr. 1  | attention                         |
-| Lecture 16      | Apr. 3  | transformers and GPT              |
+| Exam            | Mar. 27 | Exam 2                            |
+| Lecture 15      | Apr. 1  | transformers                      |
+| Lecture 16      | Apr. 3  | GPT                               |
 | Pset 6 due      | Apr. 5  | transformers                      |
 | Lecture 17      | Apr. 8  | in-context learning               |
 | Lecture 18      | Apr. 10 | policy gradient                   |

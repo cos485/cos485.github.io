@@ -91,7 +91,7 @@ Lecture slides and Jupyter notebooks can be found
 <tr>
 <td class="org-left">Exam</td>
 <td class="org-left">Feb. 21</td>
-<td class="org-left">exam</td>
+<td class="org-left">Exam 1</td>
 </tr>
 
 <tr>
@@ -139,13 +139,13 @@ Lecture slides and Jupyter notebooks can be found
 <tr>
 <td class="org-left">Lecture 12</td>
 <td class="org-left">Mar. 18</td>
-<td class="org-left">diffusion models</td>
+<td class="org-left">autoencoders and diffusion models</td>
 </tr>
 
 <tr>
 <td class="org-left">Lecture 13</td>
 <td class="org-left">Mar. 20</td>
-<td class="org-left">attention</td>
+<td class="org-left">language models and attention</td>
 </tr>
 
 <tr>
@@ -157,25 +157,25 @@ Lecture slides and Jupyter notebooks can be found
 <tr>
 <td class="org-left">Lecture 14</td>
 <td class="org-left">Mar. 25</td>
-<td class="org-left">transformers</td>
+<td class="org-left">review</td>
 </tr>
 
 <tr>
 <td class="org-left">Exam</td>
 <td class="org-left">Mar. 27</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">Exam 2</td>
 </tr>
 
 <tr>
 <td class="org-left">Lecture 15</td>
 <td class="org-left">Apr. 1</td>
-<td class="org-left">language modeling</td>
+<td class="org-left">transformers</td>
 </tr>
 
 <tr>
 <td class="org-left">Lecture 16</td>
 <td class="org-left">Apr. 3</td>
-<td class="org-left">LLMs</td>
+<td class="org-left">GPT</td>
 </tr>
 
 <tr>
@@ -187,7 +187,7 @@ Lecture slides and Jupyter notebooks can be found
 <tr>
 <td class="org-left">Lecture 17</td>
 <td class="org-left">Apr. 8</td>
-<td class="org-left">text-conditional image generation</td>
+<td class="org-left">in-context learning</td>
 </tr>
 
 <tr>
@@ -239,3 +239,4 @@ Lecture slides and Jupyter notebooks can be found
 </tr>
 </tbody>
 </table>
+</div>
