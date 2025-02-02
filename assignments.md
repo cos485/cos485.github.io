@@ -11,7 +11,7 @@ Assignments should be submitted through [Gradescope](https://www.gradescope.com/
 ### PSET 1 (Due 11:59PM on Feb.7, Friday)
 
 > Link to PDF (for printing): [Problem Set 1](https://drive.google.com/file/d/1mDwxDUvOWXXvutW7y16u2pTcdJI4YLVS/view?usp=drive_link)\
-> Link to Overleaf (recommended): [Problem Set 1](https://www.overleaf.com/read/cbnvqyqrtbhp#ad4818)
+> Link to Overleaf (recommended): [Problem Set 1](https://www.overleaf.com/read/cbnvqyqrtbhp#ad4818)\
 > Link to Colab Notebook: [Problem Set 1 Cobab](https://colab.research.google.com/drive/1O9X6aGeh1ELzoZ6FvFOvHBXstg4Xx7zz)
 
 
