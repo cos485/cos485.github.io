@@ -240,8 +240,9 @@ Lecture slides and Jupyter notebooks can be found
 
 <tr>
 <td class="org-left">Final project</td>
-<td class="org-left">TBA</td>
-<td class="org-left">TBA</td>
+<td class="org-left">[May 10, 8:30am](<a href="https://registrar.princeton.edu/final-assessments/final-assessment-schedule">https://registrar.princeton.edu/final-assessments/final-assessment-schedule</a>)</td>
+<td class="org-left">&#xa0;</td>
 </tr>
 </tbody>
 </table>
+
