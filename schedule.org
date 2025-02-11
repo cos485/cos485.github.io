@@ -29,39 +29,39 @@ Lecture slides and Jupyter notebooks can be found
 [here](https://drive.google.com/drive/folders/1JZUpWa9svvhFSdbZB3gLQiD8fULctYSj?usp=drive_link).
 
 #+END_EXPORT
-| Lecture 1     | Jan. 27                                                                                       | overview, simple perceptrons      |
-| Lecture 2     | Jan. 29                                                                                       | stochastic gradient descent       |
-| Pset 0        | Jan. 31                                                                                       | math review                       |
-| Lecture 3     | Feb. 3                                                                                        | multilayer perceptrons            |
-| Lecture 4     | Feb. 5                                                                                        | convolution                       |
-| Pset 1 due    | Feb. 7                                                                                        | perceptrons                       |
-| Lecture 5     | Feb. 10                                                                                       | convolutional nets                |
-| Lecture 6     | Feb. 12                                                                                       | visual object recognition         |
-| Pset 2 due    | Feb. 14                                                                                       | MLPs and convolution              |
-| Exam 1        | Feb. 17                                                                                       |                                   |
-| Lecture 7     | Feb. 19                                                                                       | generalization & regularization   |
-| Lecture 8     | Feb. 24                                                                                       | BatchNorm, transfer learning      |
-| Lecture 9     | Feb. 26                                                                                       | object detection                  |
-| Pset 3 due    | Feb. 28                                                                                       | convolutional nets                |
-| Lecture 10    | Mar. 3                                                                                        | deconvolution layers              |
-| Lecture 11    | Mar. 5                                                                                        | segmentation                      |
-| Pset 4 due    | Mar. 7                                                                                        | segmentation and denoising        |
-| Break         |                                                                                               |                                   |
-| Lecture 12    | Mar. 17                                                                                       | autoencoders and diffusion models |
-| Lecture 13    | Mar. 19                                                                                       | language models and attention     |
-| Pset 5 due    | Mar. 21                                                                                       | diffusion models                  |
-| Lecture 14    | Mar. 24                                                                                       | transformers                      |
-| Lecture 15    | Mar. 26                                                                                       | GPT                               |
-| Pset 6 due    | Mar. 28                                                                                       | transformers 1                    |
-| Lecture 16    | Mar. 31                                                                                       | in-context learning               |
-| Lecture 17    | Apr. 2                                                                                        | vision transformers               |
-| Pset 7 due    | Apr. 4                                                                                        | transformers 2                    |
-| Exam 2        | Apr. 7                                                                                        |                                   |
-| Lecture 18    | Apr. 9                                                                                        | policy gradient                   |
-| Project       | Apr. 11                                                                                       | proposal v1 due                   |
-| Lecture 20    | Apr. 14                                                                                       | prompt engineering, RLHF          |
-| Lecture 21    | Apr. 16                                                                                       | project meetings                  |
-| Project       | Apr. 18                                                                                       | proposal v2 and status report     |
-| Lecture 22    | Apr. 21                                                                                       | AI safety                         |
-| Lecture 23    | Apr. 23                                                                                       | project meetings                  |
-| Final project | [May 10, 8:30am](https://registrar.princeton.edu/final-assessments/final-assessment-schedule) |                                   |
+| Lecture 1     | Jan. 27        | overview, simple perceptrons      |
+| Lecture 2     | Jan. 29        | stochastic gradient descent       |
+| Pset 0        | Jan. 31        | math review                       |
+| Lecture 3     | Feb. 3         | multilayer perceptrons            |
+| Lecture 4     | Feb. 5         | convolution                       |
+| Pset 1 due    | Feb. 7         | perceptrons                       |
+| Lecture 5     | Feb. 10        | convolutional nets                |
+| Lecture 6     | Feb. 12        | visual object recognition         |
+| Pset 2 due    | Feb. 14        | MLPs and convolution              |
+| Exam 1        | Feb. 17        |                                   |
+| Lecture 7     | Feb. 19        | generalization & regularization   |
+| Lecture 8     | Feb. 24        | BatchNorm, transfer learning      |
+| Lecture 9     | Feb. 26        | object detection                  |
+| Pset 3 due    | Feb. 28        | convolutional nets                |
+| Lecture 10    | Mar. 3         | deconvolution layers              |
+| Lecture 11    | Mar. 5         | segmentation                      |
+| Pset 4 due    | Mar. 7         | segmentation and denoising        |
+| Break         |                |                                   |
+| Lecture 12    | Mar. 17        | autoencoders and diffusion models |
+| Lecture 13    | Mar. 19        | language models and attention     |
+| Pset 5 due    | Mar. 21        | diffusion models                  |
+| Lecture 14    | Mar. 24        | transformers                      |
+| Lecture 15    | Mar. 26        | GPT                               |
+| Pset 6 due    | Mar. 28        | transformers 1                    |
+| Lecture 16    | Mar. 31        | in-context learning               |
+| Lecture 17    | Apr. 2         | vision transformers               |
+| Pset 7 due    | Apr. 4         | transformers 2                    |
+| Exam 2        | Apr. 7         |                                   |
+| Lecture 18    | Apr. 9         | policy gradient                   |
+| Project       | Apr. 11        | proposal v1 due                   |
+| Lecture 20    | Apr. 14        | prompt engineering, RLHF          |
+| Lecture 21    | Apr. 16        | project meetings                  |
+| Project       | Apr. 18        | proposal v2 and status report     |
+| Lecture 22    | Apr. 21        | AI safety                         |
+| Lecture 23    | Apr. 23        | project meetings                  |
+| Final project | [[https://registrar.princeton.edu/final-assessments/final-assessment-schedule][May 10, 8:30am]] |                                   |
