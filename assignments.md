@@ -8,7 +8,7 @@ permalink: /2025/assignments/
 
 Assignments should be submitted through [Gradescope](https://www.gradescope.com/courses/967007). Please follow the general [guidelines](https://cos485.github.io/2025/01/27/homework-guidelines.html) regarding homework assignments.
 
-### PSET 3 (Due 11:59PM on Feb.28, Friday)
+### PSET 3 (Due 11:59PM on March.2, Sunday)
 > Link to Colab Notebook: [Problem Set 3 Cobab](https://colab.research.google.com/drive/18IA55rdalnbMoXBINIQj6VZX4bym56Np)
 
 
