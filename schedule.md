@@ -150,7 +150,7 @@ Lecture slides and Jupyter notebooks can be found
 
 <tr>
 <td class="org-left">Pset 5 due</td>
-<td class="org-left">Mar. 21</td>
+<td class="org-left">Mar. 23</td>
 <td class="org-left">diffusion models</td>
 </tr>
 
@@ -163,43 +163,37 @@ Lecture slides and Jupyter notebooks can be found
 <tr>
 <td class="org-left">Lecture 15</td>
 <td class="org-left">Mar. 26</td>
-<td class="org-left">GPT</td>
+<td class="org-left">pretraining/GPT</td>
 </tr>
 
 <tr>
 <td class="org-left">Pset 6 due</td>
-<td class="org-left">Mar. 28</td>
+<td class="org-left">Mar. 30</td>
 <td class="org-left">transformers 1</td>
 </tr>
 
 <tr>
 <td class="org-left">Lecture 16</td>
 <td class="org-left">Mar. 31</td>
-<td class="org-left">in-context learning</td>
+<td class="org-left">deep RL</td>
 </tr>
 
 <tr>
 <td class="org-left">Lecture 17</td>
 <td class="org-left">Apr. 2</td>
-<td class="org-left">vision transformers</td>
-</tr>
-
-<tr>
-<td class="org-left">Pset 7 due</td>
-<td class="org-left">Apr. 4</td>
-<td class="org-left">transformers 2</td>
+<td class="org-left">posttraining/SFT/RLHF</td>
 </tr>
 
 <tr>
 <td class="org-left">Exam 2</td>
 <td class="org-left">Apr. 7</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">Exam 2</td>
 </tr>
 
 <tr>
 <td class="org-left">Lecture 18</td>
 <td class="org-left">Apr. 9</td>
-<td class="org-left">policy gradient</td>
+<td class="org-left">AlphaGo</td>
 </tr>
 
 <tr>
@@ -211,13 +205,13 @@ Lecture slides and Jupyter notebooks can be found
 <tr>
 <td class="org-left">Lecture 20</td>
 <td class="org-left">Apr. 14</td>
-<td class="org-left">prompt engineering, RLHF</td>
+<td class="org-left">project meetings</td>
 </tr>
 
 <tr>
 <td class="org-left">Lecture 21</td>
 <td class="org-left">Apr. 16</td>
-<td class="org-left">project meetings</td>
+<td class="org-left">agents and tool use</td>
 </tr>
 
 <tr>
@@ -229,19 +223,25 @@ Lecture slides and Jupyter notebooks can be found
 <tr>
 <td class="org-left">Lecture 22</td>
 <td class="org-left">Apr. 21</td>
-<td class="org-left">AI safety</td>
+<td class="org-left">project meetings</td>
 </tr>
 
 <tr>
 <td class="org-left">Lecture 23</td>
 <td class="org-left">Apr. 23</td>
-<td class="org-left">project meetings</td>
+<td class="org-left">AI safety</td>
+</tr>
+
+<tr>
+<td class="org-left">Reading period</td>
+<td class="org-left">Apr. 30</td>
+<td class="org-left">project oral presentations</td>
 </tr>
 
 <tr>
 <td class="org-left">Final project</td>
 <td class="org-left"><a href="https://registrar.princeton.edu/final-assessments/final-assessment-schedule">May 10, 8:30am</a></td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">project papers due</td>
 </tr>
 </tbody>
 </table>
